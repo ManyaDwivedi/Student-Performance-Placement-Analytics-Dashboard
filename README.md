@@ -1,255 +1,213 @@
-# 🎓 Student Performance & Placement Analytics
+# Student Performance & Placement Analytics Dashboard
 
-**Transforming Student Data into Meaningful Academic and Placement Insights**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?style=for-the-badge&logo=streamlit" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analytics-150458?style=for-the-badge&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4D7A?style=for-the-badge&logo=plotly" alt="Plotly" />
+</p>
 
-An end-to-end data analytics project that analyzes student academic
-performance and placement outcomes — covering data generation, cleaning,
-exploratory data analysis, visualization, and an interactive Streamlit
-dashboard.
+Transforming student data into meaningful academic and placement insights through an end-to-end analytics and dashboard workflow.
 
----
+## Live Dashboard
 
-## Project Overview
+The dashboard is running locally at:
 
-This project simulates a realistic student placement dataset and builds
-a complete analytics pipeline around it — from raw data generation to a
-polished, interactive dashboard. It explores how academic performance
-(CGPA, attendance) and hands-on experience (internships, projects,
-certifications, technical skills, aptitude, and communication scores)
-relate to placement outcomes and salary packages.
+http://localhost:8501/
 
-## Problem Statement
+## Overview
 
-Educational institutions and students alike want to understand what
-actually drives successful campus placements. Is CGPA the only thing
-that matters? Do internships and projects matter more than certifications?
-Does attendance affect outcomes? This project answers these questions
-using a data-driven approach — surfacing patterns that can guide
-students on where to focus their effort and help institutions understand
-placement trends across branches.
+This project is a complete Student Performance & Placement Analytics solution that generates a synthetic placement dataset, cleans and validates it, performs exploratory data analysis, and presents the results in a professional Streamlit dashboard.
 
-## Objectives
+The project answers questions such as:
 
-- Generate a realistic, statistically sound synthetic dataset of student
-  academic and placement records.
-- Clean and validate the dataset for consistency and correctness.
-- Perform thorough exploratory and statistical analysis.
-- Visualize key relationships between academic/skill factors and
-  placement outcomes.
-- Build an interactive dashboard for exploring the data dynamically.
-- Summarize findings into a clear, data-driven insights report.
+- Which academic and skill factors influence placement outcomes?
+- How do CGPA, attendance, internships, certifications, and projects affect placement success?
+- Which branches and companies produce stronger placement and salary outcomes?
 
 ## Features
 
-- 800-record realistic synthetic dataset with logical placement and
-  salary relationships.
-- Full data cleaning and validation pipeline (duplicates, missing
-  values, range validation, placement-logic consistency).
-- Complete exploratory data analysis: overall, academic, skills,
-  placement, salary, and correlation analysis.
-- 14 professional, high-resolution visualizations (Matplotlib/Seaborn).
-- Automatically generated insights report — no hardcoded values.
-- 7-page interactive Streamlit dashboard with dynamic filters
-  (Branch / Gender / Placement Status), KPI cards, and Plotly charts.
-- Dataset explorer with summary statistics and CSV download.
-- Basic automated test suite validating data integrity.
-- Windows-friendly one-click run script.
+- 800-record realistic synthetic student placement dataset
+- Automated data generation, validation, and cleaning
+- 14 visual charts generated from the cleaned data
+- Dynamic dashboard filters for Branch, Gender, and Placement Status
+- KPI cards, charts, insights, and dataset explorer
+- Business-ready report generated in the `reports/` folder
+- Automated project tests using `unittest`
 
-## Technology Stack
+## Tech Stack
 
-| Category            | Tools / Libraries        |
-|---------------------|---------------------------|
-| Language             | Python 3.12+              |
-| Data Analysis        | Pandas, NumPy             |
-| Static Visualization  | Matplotlib, Seaborn       |
-| Interactive Visualization | Plotly                |
-| Dashboard            | Streamlit                 |
-| Testing              | unittest                  |
-
-## Dataset
-
-The dataset (`data/student_placement_data.csv`, 800 records) contains:
-
-| Column | Description |
+| Area | Tools |
 |---|---|
-| Student_ID | Unique student identifier (e.g. STU001) |
-| Student_Name | Fictional student name |
-| Gender | Male / Female / Other |
-| Age | Student age (20–25) |
-| Branch | Engineering branch |
-| CGPA | Cumulative GPA (5.0–10.0) |
-| Attendance_Percentage | Attendance (50–100%) |
-| Technical_Skills | Number of technical skills (1–10) |
-| Internships | Number of internships completed (0–4) |
-| Projects | Number of projects completed (0–8) |
-| Certifications | Number of certifications (0–10) |
-| Aptitude_Score | Aptitude test score (0–100) |
-| Communication_Score | Communication skill score (0–100) |
-| Placement_Status | Placed / Not Placed |
-| Company | Recruiting company (or "Not Applicable") |
-| Salary_Package_LPA | Salary package in LPA (0 if not placed) |
+| Programming Language | Python 3.12+ |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn, Plotly |
+| Dashboard | Streamlit |
+| Testing | unittest |
 
-Placement and salary are generated using a weighted, logistic-style
-model based on CGPA, attendance, skills, internships, projects,
-certifications, aptitude, and communication — with realistic random
-noise so outcomes aren't perfectly predictable.
+## Project Workflow
 
-## Data Analytics Workflow
-
-```
-Raw Data
+```text
+Raw Dataset
    ↓
 Data Cleaning
    ↓
-Data Validation
+Dataset Validation
    ↓
 Exploratory Data Analysis
    ↓
-Visualization
+Visualization Generation
    ↓
-Interactive Dashboard
+Streamlit Dashboard
    ↓
-Business Insights
+Insights Report
 ```
 
-## Project Structure
+## Dashboard Screenshot
 
-```
+![Dashboard Screenshot](visualizations/placement_distribution.png)
+
+## Dataset
+
+The generated data file is stored in:
+
+- `data/student_placement_data.csv`
+- `data/cleaned_student_data.csv`
+
+It has 800 records and includes fields such as:
+
+- Student_ID
+- Student_Name
+- Gender
+- Age
+- Branch
+- CGPA
+- Attendance_Percentage
+- Technical_Skills
+- Internships
+- Projects
+- Certifications
+- Aptitude_Score
+- Communication_Score
+- Placement_Status
+- Company
+- Salary_Package_LPA
+
+## Repository Structure
+
+```text
 Student-Performance-Placement-Analytics/
-├── data/
-│   ├── student_placement_data.csv
-│   └── cleaned_student_data.csv
-├── src/
-│   ├── __init__.py
-│   ├── data_generator.py
-│   ├── data_cleaning.py
-│   ├── analysis.py
-│   └── utils.py
 ├── dashboard/
 │   └── app.py
-├── visualizations/
-│   ├── placement_distribution.png
-│   ├── branch_placement_rate.png
-│   ├── cgpa_distribution.png
-│   ├── average_cgpa_by_branch.png
-│   ├── cgpa_vs_salary.png
-│   ├── attendance_vs_placement.png
-│   ├── internships_vs_placement.png
-│   ├── projects_vs_placement.png
-│   ├── certifications_vs_placement.png
-│   ├── gender_wise_placement.png
-│   ├── company_wise_placement.png
-│   ├── salary_distribution.png
-│   ├── branch_wise_average_salary.png
-│   └── correlation_heatmap.png
+├── data/
+│   ├── cleaned_student_data.csv
+│   └── student_placement_data.csv
 ├── reports/
 │   └── project_insights.md
+├── src/
+│   ├── analysis.py
+│   ├── data_cleaning.py
+│   ├── data_generator.py
+│   └── utils.py
 ├── tests/
 │   └── test_project.py
+├── visualizations/
+│   ├── attendance_vs_placement.png
+│   ├── average_cgpa_by_branch.png
+│   ├── branch_placement_rate.png
+│   ├── branch_wise_average_salary.png
+│   ├── certifications_vs_placement.png
+│   ├── cgpa_distribution.png
+│   ├── cgpa_vs_salary.png
+│   ├── company_wise_placement.png
+│   ├── correlation_heatmap.png
+│   ├── gender_wise_placement.png
+│   ├── internships_vs_placement.png
+│   ├── placement_distribution.png
+│   ├── projects_vs_placement.png
+│   └── salary_distribution.png
 ├── .gitignore
-├── requirements.txt
 ├── README.md
+├── requirements.txt
 └── run_project.bat
 ```
 
 ## Installation
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ManyaDwivedi/Student-Performance-Placement-Analytics-Dashboard.git
+cd Student-Performance-Placement-Analytics-Dashboard
 ```
-git clone YOUR_REPOSITORY_URL
-cd Student-Performance-Placement-Analytics
-py -3.12 -m venv venv
+
+2. Create and activate a virtual environment:
+
+```bash
+python -m venv venv
 venv\Scripts\activate
+```
+
+3. Install dependencies:
+
+```bash
 pip install -r requirements.txt
 ```
 
-> On Windows, you can instead simply double-click `run_project.bat`,
-> which automates all of the steps below.
+4. Run the full pipeline:
 
-## Run Dataset Generator
-
-```
+```bash
 python src/data_generator.py
-```
-
-## Run Data Cleaning
-
-```
 python src/data_cleaning.py
-```
-
-## Run Analysis
-
-```
 python src/analysis.py
-```
-
-This generates all 14 visualizations in `visualizations/` and the
-insights report at `reports/project_insights.md`.
-
-## Run Dashboard
-
-```
 streamlit run dashboard/app.py
 ```
 
-## Dashboard Features
+Or run the Windows helper script:
 
-The dashboard opens with a sidebar for navigation and dynamic filters
-(Branch, Gender, Placement Status — each with an "All" option):
+```bat
+run_project.bat
+```
 
-1. **Overview** — KPI cards (total students, placed, placement rate,
-   average CGPA, average/highest salary) plus placement, branch, and
-   gender distribution charts.
-2. **Academic Performance** — CGPA distribution, average CGPA by
-   branch, CGPA/attendance vs placement, and CGPA-range placement
-   analysis.
-3. **Skills & Experience** — Technical skills, internships, projects,
-   certifications, aptitude, and communication vs placement.
-4. **Placement Analysis** — Overall distribution, branch/gender/company
-   breakdowns, and top recruiting companies.
-5. **Salary Analysis** — Salary distribution, branch/company-wise
-   average salary, and salary vs CGPA/internships/projects.
-6. **Key Insights** — Dynamically calculated highlight cards (top
-   branch, top company, best CGPA range, most influential factor,
-   strongest salary correlation, etc.) — nothing is hardcoded.
-7. **Dataset Explorer** — Data preview, shape, dtypes, missing-value
-   summary, full summary statistics, and a CSV download button for the
-   currently filtered data.
+## How to Use the Dashboard
+
+Start the project using:
+
+```bash
+streamlit run dashboard/app.py
+```
+
+Then open:
+
+http://localhost:8501/
+
+The dashboard includes:
+
+1. Overview
+2. Academic Performance
+3. Skills & Experience
+4. Placement Analysis
+5. Salary Analysis
+6. Key Insights
+7. Dataset Explorer
 
 ## Key Insights
 
-*(Calculated automatically — see `reports/project_insights.md` for the
-full, always-up-to-date report.)*
-
-- **Total Students:** 800 | **Placement Rate:** 44.00%
-- **Average CGPA:** 7.45 | **Average Salary Package:** 10.25 LPA
-- **Highest Salary Package:** 16.73 LPA
-- **Branch with highest placement rate:** Computer Science Engineering (47.27%)
-- **Branch with highest average salary:** Mechanical Engineering (10.64 LPA)
-- **CGPA range with best placement rate:** Above 9 (65.96%)
-- **Most influential factor for placement:** CGPA (correlation = 0.124)
-- **Top recruiting company:** Capgemini (44 students placed)
-- **Feature most strongly correlated with salary:** CGPA (correlation = 0.199)
-
-## Visualizations
-
-All 14 charts are saved in `visualizations/` after running
-`python src/analysis.py`, including placement distribution, branch-wise
-placement rate, CGPA distribution, CGPA vs salary, attendance/
-internships/projects/certifications vs placement, gender- and
-company-wise placement, salary distribution, branch-wise average
-salary, and a full correlation heatmap.
-
-## Future Improvements
-
-- Machine Learning-based placement prediction model
-- Salary prediction model
-- Student career recommendation engine
-- Real-time database integration
-- Advanced statistical analysis (hypothesis testing, ANOVA)
-- More dashboard filters (CGPA range, internship count, etc.)
+- Total Students: 800
+- Placed Students: 352
+- Placement Rate: 44.00%
+- Average CGPA: 7.45
+- Average Salary Package: 10.25 LPA
+- Highest Salary Package: 16.73 LPA
+- Branch with highest placement rate: Computer Science Engineering
+- Top recruiting company: Capgemini
 
 ## Author
 
-**Manya Dwivedi**
+Manya Dwivedi
+
 Computer Science Engineering — Artificial Intelligence & Machine Learning
+
+## License
+
+This project is available for educational and portfolio use.
