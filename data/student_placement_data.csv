@@ -1,0 +1,801 @@
+Student_ID,Student_Name,Gender,Age,Branch,CGPA,Attendance_Percentage,Technical_Skills,Internships,Projects,Certifications,Aptitude_Score,Communication_Score,Placement_Status,Company,Salary_Package_LPA
+STU001,Ishaan Nair,Male,24,Computer Science Engineering,8.15,85.8,2,1,7,4,37.5,82.6,Placed,Cognizant,12.69
+STU002,Shreya Reddy,Female,23,Mechanical Engineering,8.51,68.9,5,0,5,4,100.0,75.8,Placed,HCLTech,9.62
+STU003,Nisha Malhotra,Female,25,Electronics & Communication,7.94,81.3,4,2,2,0,45.3,97.1,Placed,Cognizant,6.43
+STU004,Riya Reddy,Female,21,Artificial Intelligence & Machine Learning,8.73,75.0,6,2,2,3,69.4,53.6,Not Placed,Not Applicable,0.0
+STU005,Aryan Pandey,Male,25,Artificial Intelligence & Machine Learning,7.82,68.1,8,1,3,2,58.6,55.2,Placed,Capgemini,9.05
+STU006,Aarav Malhotra,Male,24,Mechanical Engineering,8.26,88.3,9,0,6,6,65.3,65.9,Not Placed,Not Applicable,0.0
+STU007,Arjun Dwivedi,Male,23,Information Technology,8.34,78.5,6,1,3,2,59.8,54.1,Not Placed,Not Applicable,0.0
+STU008,Tanvi Singh,Female,22,Electronics & Communication,7.18,75.1,2,2,2,2,79.4,73.1,Placed,Cognizant,7.22
+STU009,Ananya Rao,Female,24,Computer Science Engineering,8.13,69.7,6,3,3,3,78.9,64.2,Placed,Infosys,12.68
+STU010,Nisha Joshi,Female,23,Mechanical Engineering,6.46,67.7,6,2,6,1,64.1,57.7,Not Placed,Not Applicable,0.0
+STU011,Yash Dwivedi,Male,25,Electronics & Communication,7.75,100.0,7,0,1,1,45.7,81.3,Not Placed,Not Applicable,0.0
+STU012,Aditi Reddy,Female,20,Civil Engineering,7.98,84.0,5,1,2,3,51.8,37.3,Not Placed,Not Applicable,0.0
+STU013,Kavya Nair,Female,20,Computer Science Engineering,8.45,66.9,6,0,5,2,33.6,73.1,Not Placed,Not Applicable,0.0
+STU014,Harsh Bhatt,Male,21,Electronics & Communication,8.22,83.5,4,0,4,2,56.0,56.7,Not Placed,Not Applicable,0.0
+STU015,Rohan Gupta,Male,23,Electronics & Communication,8.46,92.7,5,2,2,2,30.2,77.3,Placed,Infosys,10.89
+STU016,Harsh Bhatt,Male,20,Artificial Intelligence & Machine Learning,7.3,82.0,7,2,2,0,65.9,80.8,Not Placed,Not Applicable,0.0
+STU017,Aryan Patel,Male,22,Information Technology,7.05,96.5,1,0,3,3,67.3,30.9,Placed,Tech Mahindra,6.49
+STU018,Vivaan Mehta,Male,23,Computer Science Engineering,7.13,61.5,5,3,3,5,80.1,61.8,Not Placed,Not Applicable,0.0
+STU019,Manav Verma,Male,22,Mechanical Engineering,7.67,56.1,7,0,3,0,40.0,65.9,Not Placed,Not Applicable,0.0
+STU020,Nikhil Iyer,Male,22,Information Technology,5.59,83.1,9,2,6,3,41.3,29.6,Placed,HCLTech,9.8
+STU021,Pooja Mishra,Female,20,Computer Science Engineering,8.73,83.3,5,0,0,2,89.4,68.4,Placed,Accenture,11.73
+STU022,Krishna Tripathi,Male,23,Electronics & Communication,7.44,50.0,8,2,4,1,37.4,57.1,Placed,IBM,9.56
+STU023,Reyansh Dwivedi,Male,25,Information Technology,6.98,72.5,9,2,1,1,98.9,46.9,Placed,Accenture,14.51
+STU024,Aarav Bansal,Male,24,Computer Science Engineering,5.0,67.9,5,3,4,2,45.4,55.2,Placed,HCLTech,8.3
+STU025,Aryan Rao,Male,20,Civil Engineering,7.36,63.3,4,0,1,1,45.5,52.7,Not Placed,Not Applicable,0.0
+STU026,Simran Dwivedi,Female,20,Civil Engineering,7.2,67.9,5,0,1,4,77.2,56.4,Not Placed,Not Applicable,0.0
+STU027,Nikhil Mehta,Male,25,Information Technology,6.5,87.1,5,3,3,2,71.9,67.8,Not Placed,Not Applicable,0.0
+STU028,Nikhil Tripathi,Male,23,Computer Science Engineering,6.73,67.8,8,2,2,7,91.5,79.7,Not Placed,Not Applicable,0.0
+STU029,Kavya Bansal,Female,23,Mechanical Engineering,7.37,68.2,4,2,0,1,28.0,63.8,Not Placed,Not Applicable,0.0
+STU030,Harsh Rao,Male,22,Information Technology,6.81,60.6,9,2,2,3,71.6,81.5,Placed,Tech Mahindra,11.04
+STU031,Riya Bansal,Female,25,Artificial Intelligence & Machine Learning,7.97,95.2,4,1,3,3,61.2,49.3,Not Placed,Not Applicable,0.0
+STU032,Krishna Sharma,Male,25,Information Technology,6.65,85.2,3,3,3,3,42.6,67.3,Placed,Capgemini,10.4
+STU033,Karan Pandey,Male,23,Information Technology,7.55,50.1,7,2,2,0,95.9,96.6,Placed,IBM,11.98
+STU034,Nisha Saxena,Female,22,Information Technology,8.58,68.2,8,2,8,1,66.2,41.1,Not Placed,Not Applicable,0.0
+STU035,Nisha Bansal,Female,20,Information Technology,7.36,86.3,6,0,4,3,60.9,40.6,Not Placed,Not Applicable,0.0
+STU036,Neha Agarwal,Female,21,Electronics & Communication,7.76,95.4,6,1,2,2,70.2,84.2,Placed,Wipro,11.61
+STU037,Ishaan Mishra,Male,24,Civil Engineering,7.69,90.1,9,1,2,2,30.9,68.3,Not Placed,Not Applicable,0.0
+STU038,Manav Sharma,Male,20,Artificial Intelligence & Machine Learning,7.41,75.7,8,0,3,1,39.5,56.0,Placed,Deloitte,9.83
+STU039,Tanvi Mishra,Female,23,Electronics & Communication,7.33,56.8,6,0,3,1,56.0,48.1,Not Placed,Not Applicable,0.0
+STU040,Yash Chatterjee,Male,24,Civil Engineering,6.83,90.4,5,0,3,4,67.7,64.5,Not Placed,Not Applicable,0.0
+STU041,Vivaan Rao,Male,21,Information Technology,7.55,76.4,8,0,0,1,84.9,67.0,Placed,Wipro,12.48
+STU042,Nikhil Chatterjee,Male,21,Information Technology,7.12,80.8,7,4,0,2,46.1,67.1,Placed,Cognizant,9.26
+STU043,Reyansh Mishra,Male,22,Electronics & Communication,8.95,77.9,6,1,4,4,42.0,47.9,Placed,Tech Mahindra,9.58
+STU044,Saanvi Sharma,Female,24,Electronics & Communication,8.21,63.7,5,1,2,4,71.0,59.9,Placed,Capgemini,10.29
+STU045,Ishaan Pandey,Male,22,Mechanical Engineering,5.95,84.4,5,0,4,3,59.6,56.5,Placed,Wipro,7.43
+STU046,Anika Gupta,Female,20,Information Technology,6.0,82.7,5,1,2,3,27.4,74.7,Not Placed,Not Applicable,0.0
+STU047,Kabir Nair,Male,25,Civil Engineering,7.27,74.9,5,2,1,5,45.5,48.8,Not Placed,Not Applicable,0.0
+STU048,Siddharth Malhotra,Male,25,Computer Science Engineering,7.0,85.7,4,1,2,1,58.7,66.1,Not Placed,Not Applicable,0.0
+STU049,Vivaan Sharma,Male,25,Computer Science Engineering,7.22,63.5,6,1,2,2,59.2,100.0,Placed,Accenture,7.82
+STU050,Manav Mehta,Male,24,Electronics & Communication,8.05,76.8,4,2,4,3,63.6,47.8,Placed,Deloitte,11.43
+STU051,Riya Sharma,Female,25,Artificial Intelligence & Machine Learning,7.72,80.3,6,4,2,2,38.6,53.8,Placed,HCLTech,10.35
+STU052,Ishita Saxena,Female,20,Artificial Intelligence & Machine Learning,7.71,59.2,1,1,3,2,59.6,63.6,Not Placed,Not Applicable,0.0
+STU053,Riya Rao,Female,22,Artificial Intelligence & Machine Learning,8.85,79.3,4,0,0,4,79.0,20.9,Not Placed,Not Applicable,0.0
+STU054,Aditi Kumar,Female,24,Artificial Intelligence & Machine Learning,6.01,88.8,8,2,2,2,10.0,43.6,Not Placed,Not Applicable,0.0
+STU055,Ishita Mishra,Female,22,Computer Science Engineering,7.5,76.4,4,0,1,4,56.9,69.7,Not Placed,Not Applicable,0.0
+STU056,Ananya Kapoor,Female,24,Civil Engineering,6.82,79.6,7,1,5,2,32.1,62.4,Not Placed,Not Applicable,0.0
+STU057,Ishaan Verma,Male,22,Artificial Intelligence & Machine Learning,8.84,86.7,4,0,4,4,61.4,80.8,Not Placed,Not Applicable,0.0
+STU058,Aditya Saxena,Male,21,Electronics & Communication,5.19,75.3,7,0,6,4,34.9,61.4,Not Placed,Not Applicable,0.0
+STU059,Sameer Saxena,Male,22,Mechanical Engineering,5.23,76.4,5,1,3,2,64.4,60.1,Not Placed,Not Applicable,0.0
+STU060,Sameer Iyer,Male,25,Civil Engineering,7.7,65.9,5,0,8,2,91.3,54.5,Placed,Capgemini,14.52
+STU061,Rahul Singh,Male,21,Computer Science Engineering,8.53,79.8,6,1,1,2,44.4,59.9,Placed,IBM,9.76
+STU062,Harsh Kumar,Male,22,Mechanical Engineering,8.17,76.0,3,4,1,2,47.0,46.8,Placed,Capgemini,10.82
+STU063,Tanvi Pandey,Female,24,Information Technology,6.6,86.0,7,2,2,3,53.5,62.8,Placed,Cognizant,9.72
+STU064,Rahul Chatterjee,Male,24,Electronics & Communication,8.91,86.8,8,0,4,4,67.7,50.4,Not Placed,Not Applicable,0.0
+STU065,Krishna Nair,Male,24,Electronics & Communication,6.17,89.5,5,2,2,3,43.7,46.8,Not Placed,Not Applicable,0.0
+STU066,Krishna Sharma,Male,23,Mechanical Engineering,8.71,73.9,7,2,2,3,55.2,55.4,Placed,Tech Mahindra,13.77
+STU067,Siddharth Agarwal,Male,20,Artificial Intelligence & Machine Learning,6.3,53.9,7,2,2,2,49.9,71.8,Not Placed,Not Applicable,0.0
+STU068,Nisha Singh,Female,24,Electronics & Communication,7.05,88.9,5,2,3,3,53.6,67.1,Not Placed,Not Applicable,0.0
+STU069,Manav Verma,Male,21,Information Technology,8.04,85.2,3,1,1,6,67.9,75.0,Not Placed,Not Applicable,0.0
+STU070,Alex Kapoor,Other,24,Mechanical Engineering,5.93,72.4,9,2,0,3,71.9,51.2,Not Placed,Not Applicable,0.0
+STU071,Aadhya Tripathi,Female,23,Civil Engineering,8.87,86.7,5,0,1,4,35.4,64.8,Not Placed,Not Applicable,0.0
+STU072,Aryan Nair,Male,25,Computer Science Engineering,7.04,62.6,4,2,3,2,67.9,90.5,Not Placed,Not Applicable,0.0
+STU073,Vivaan Gupta,Male,21,Civil Engineering,7.54,92.4,9,0,7,4,100.0,86.0,Placed,HCLTech,10.7
+STU074,Pooja Tripathi,Female,23,Computer Science Engineering,8.56,76.0,7,0,4,3,89.8,45.9,Placed,Cognizant,11.47
+STU075,Aadhya Kumar,Female,25,Computer Science Engineering,6.61,70.1,6,1,6,5,50.4,49.9,Placed,Capgemini,10.52
+STU076,Myra Reddy,Female,21,Computer Science Engineering,8.46,72.5,4,1,5,4,64.4,90.5,Not Placed,Not Applicable,0.0
+STU077,Diya Dwivedi,Female,22,Artificial Intelligence & Machine Learning,9.04,77.2,7,2,2,3,61.4,71.8,Placed,Infosys,13.6
+STU078,Dhruv Gupta,Male,20,Electronics & Communication,6.74,79.9,10,2,3,1,70.3,62.1,Not Placed,Not Applicable,0.0
+STU079,Harsh Rao,Male,20,Computer Science Engineering,8.77,80.6,7,2,5,2,54.4,60.5,Not Placed,Not Applicable,0.0
+STU080,Dhruv Saxena,Male,23,Computer Science Engineering,5.64,74.8,6,1,5,4,57.2,68.4,Placed,Wipro,9.1
+STU081,Shreya Nair,Female,25,Civil Engineering,7.79,82.4,7,1,3,1,48.8,68.6,Placed,Capgemini,12.78
+STU082,Tanvi Pandey,Female,20,Mechanical Engineering,6.17,80.1,5,1,4,0,81.7,57.0,Placed,HCLTech,10.28
+STU083,Nikhil Chatterjee,Male,25,Mechanical Engineering,8.34,72.2,5,0,3,3,67.6,62.6,Placed,Capgemini,11.35
+STU084,Siddharth Bansal,Male,25,Civil Engineering,8.26,70.4,5,1,0,2,67.7,56.5,Placed,Capgemini,9.74
+STU085,Sameer Reddy,Male,23,Electronics & Communication,9.48,87.3,4,0,7,5,83.9,67.5,Placed,Tech Mahindra,15.36
+STU086,Ishaan Verma,Male,23,Computer Science Engineering,8.82,86.3,5,3,2,2,84.2,53.9,Placed,IBM,9.68
+STU087,Neha Bhatt,Female,23,Artificial Intelligence & Machine Learning,7.23,80.7,5,2,5,2,80.8,46.0,Not Placed,Not Applicable,0.0
+STU088,Anika Reddy,Female,20,Electronics & Communication,6.32,91.1,5,2,1,1,83.7,87.1,Not Placed,Not Applicable,0.0
+STU089,Sneha Malhotra,Female,23,Artificial Intelligence & Machine Learning,7.97,56.5,5,3,1,1,90.1,64.0,Not Placed,Not Applicable,0.0
+STU090,Vihaan Chauhan,Male,20,Electronics & Communication,7.34,73.2,6,1,1,3,44.6,90.5,Placed,Deloitte,10.6
+STU091,Vivaan Pandey,Male,23,Computer Science Engineering,8.95,66.1,6,0,3,3,56.6,36.0,Placed,Capgemini,10.67
+STU092,Aadhya Iyer,Female,24,Artificial Intelligence & Machine Learning,5.23,100.0,6,0,3,3,74.8,43.3,Placed,Accenture,6.24
+STU093,Myra Chatterjee,Female,25,Information Technology,9.59,88.6,9,0,1,2,46.1,72.0,Placed,Accenture,9.62
+STU094,Priya Singh,Female,23,Electronics & Communication,7.93,79.1,6,0,3,0,55.5,64.0,Not Placed,Not Applicable,0.0
+STU095,Kavya Patel,Female,21,Information Technology,6.59,89.4,10,3,3,3,65.5,47.6,Placed,HCLTech,14.27
+STU096,Vivaan Bansal,Male,25,Electronics & Communication,8.13,93.4,6,3,7,3,57.9,82.0,Not Placed,Not Applicable,0.0
+STU097,Arjun Bhatt,Male,25,Computer Science Engineering,8.7,93.3,5,1,4,5,63.2,52.0,Placed,Wipro,12.28
+STU098,Reyansh Yadav,Male,23,Computer Science Engineering,7.51,91.1,8,3,3,2,41.4,83.0,Placed,Tech Mahindra,10.73
+STU099,Kabir Rao,Male,22,Mechanical Engineering,5.64,76.8,5,2,3,2,61.3,63.9,Not Placed,Not Applicable,0.0
+STU100,Reyansh Joshi,Male,23,Electronics & Communication,7.11,74.0,1,1,1,0,64.4,49.0,Not Placed,Not Applicable,0.0
+STU101,Vivaan Yadav,Male,25,Computer Science Engineering,8.44,68.5,5,0,5,4,91.1,55.0,Placed,Cognizant,11.85
+STU102,Neha Bhatt,Female,21,Mechanical Engineering,7.9,86.0,5,0,2,1,57.2,85.6,Not Placed,Not Applicable,0.0
+STU103,Krishna Nair,Male,25,Artificial Intelligence & Machine Learning,7.24,78.1,9,0,2,4,50.3,60.5,Not Placed,Not Applicable,0.0
+STU104,Karan Bansal,Male,21,Information Technology,8.71,75.0,4,1,2,3,74.8,79.6,Placed,TCS,11.69
+STU105,Tanvi Verma,Female,20,Computer Science Engineering,8.14,74.4,5,0,5,2,4.9,86.0,Placed,IBM,10.49
+STU106,Aryan Sharma,Male,24,Electronics & Communication,8.22,97.4,8,2,2,4,56.3,63.8,Placed,IBM,10.73
+STU107,Siddharth Dwivedi,Male,25,Electronics & Communication,6.99,91.4,6,1,1,3,52.8,61.7,Placed,Wipro,8.87
+STU108,Saanvi Mishra,Female,23,Computer Science Engineering,6.89,100.0,5,0,7,0,66.7,58.9,Not Placed,Not Applicable,0.0
+STU109,Aryan Joshi,Male,20,Mechanical Engineering,5.7,86.3,4,1,6,2,84.4,70.3,Not Placed,Not Applicable,0.0
+STU110,Aryan Singh,Male,24,Information Technology,7.14,80.7,6,1,2,4,89.9,87.6,Placed,TCS,12.15
+STU111,Nikhil Mehta,Male,23,Artificial Intelligence & Machine Learning,8.34,79.7,5,2,2,4,66.4,46.6,Placed,Accenture,11.99
+STU112,Ishaan Gupta,Male,22,Computer Science Engineering,7.2,67.8,4,0,3,3,34.1,68.3,Placed,HCLTech,7.37
+STU113,Diya Pandey,Female,23,Artificial Intelligence & Machine Learning,7.85,64.9,4,3,4,2,52.7,67.6,Not Placed,Not Applicable,0.0
+STU114,Aditi Saxena,Female,21,Computer Science Engineering,8.51,86.1,4,2,2,3,54.7,37.9,Not Placed,Not Applicable,0.0
+STU115,Aadhya Saxena,Female,21,Electronics & Communication,7.77,68.8,4,3,2,1,68.6,51.7,Placed,TCS,11.19
+STU116,Ananya Singh,Female,22,Mechanical Engineering,7.87,82.5,7,1,2,5,63.0,54.8,Not Placed,Not Applicable,0.0
+STU117,Aditi Tripathi,Female,20,Information Technology,6.04,93.4,7,1,4,0,49.6,76.5,Not Placed,Not Applicable,0.0
+STU118,Siddharth Gupta,Male,24,Computer Science Engineering,7.08,72.0,7,0,5,3,39.5,79.1,Placed,IBM,11.5
+STU119,Kritika Iyer,Female,23,Computer Science Engineering,9.13,100.0,6,1,3,0,46.4,36.9,Placed,Cognizant,14.0
+STU120,Nikhil Chauhan,Male,21,Computer Science Engineering,7.5,68.1,5,2,3,5,45.7,74.6,Placed,Wipro,8.96
+STU121,Sneha Verma,Female,20,Information Technology,9.3,91.9,5,2,2,1,91.2,72.6,Placed,TCS,10.01
+STU122,Kavya Verma,Female,22,Mechanical Engineering,6.68,85.1,8,2,5,1,48.1,73.7,Placed,TCS,12.1
+STU123,Rohan Reddy,Male,25,Computer Science Engineering,7.63,94.3,2,2,2,3,63.1,67.3,Not Placed,Not Applicable,0.0
+STU124,Ishaan Bansal,Male,21,Electronics & Communication,7.02,66.6,4,1,3,2,79.4,79.3,Not Placed,Not Applicable,0.0
+STU125,Aarav Bhatt,Male,22,Mechanical Engineering,7.99,100.0,4,0,3,1,65.5,82.6,Not Placed,Not Applicable,0.0
+STU126,Aryan Joshi,Male,23,Information Technology,8.3,77.9,8,3,2,2,42.5,40.5,Not Placed,Not Applicable,0.0
+STU127,Priya Bhatt,Female,24,Mechanical Engineering,8.0,88.1,5,0,1,2,79.7,64.3,Not Placed,Not Applicable,0.0
+STU128,Anika Gupta,Female,21,Information Technology,8.44,97.3,2,1,1,1,68.4,61.2,Placed,TCS,8.3
+STU129,Aditya Chatterjee,Male,21,Electronics & Communication,7.39,72.7,6,2,4,3,22.7,56.4,Placed,Accenture,9.59
+STU130,Arjun Yadav,Male,23,Information Technology,7.21,89.9,5,1,1,4,84.4,58.2,Placed,Tech Mahindra,8.4
+STU131,Dhruv Mishra,Male,25,Information Technology,5.64,70.7,4,0,3,1,77.7,67.8,Not Placed,Not Applicable,0.0
+STU132,Reyansh Verma,Male,20,Artificial Intelligence & Machine Learning,8.04,96.8,4,0,2,1,68.1,45.6,Placed,Tech Mahindra,7.83
+STU133,Dhruv Mishra,Male,24,Artificial Intelligence & Machine Learning,7.57,70.9,4,2,1,0,91.4,75.1,Placed,Deloitte,12.29
+STU134,Arjun Yadav,Male,21,Artificial Intelligence & Machine Learning,7.33,80.5,7,2,6,3,77.3,59.5,Placed,Infosys,10.31
+STU135,Shreya Bansal,Female,24,Information Technology,7.21,83.7,6,0,2,2,82.3,78.1,Placed,TCS,8.39
+STU136,Kabir Bhatt,Male,21,Computer Science Engineering,7.36,89.4,5,1,4,3,80.7,55.7,Not Placed,Not Applicable,0.0
+STU137,Nikhil Kapoor,Male,24,Civil Engineering,7.16,100.0,3,2,4,0,75.6,54.9,Not Placed,Not Applicable,0.0
+STU138,Pooja Agarwal,Female,22,Electronics & Communication,6.87,74.6,5,2,7,0,29.8,50.8,Placed,TCS,4.81
+STU139,Siddharth Joshi,Male,21,Information Technology,7.64,93.7,6,1,2,4,31.9,55.8,Not Placed,Not Applicable,0.0
+STU140,Shreya Pandey,Female,24,Computer Science Engineering,7.88,100.0,6,0,8,1,77.3,53.0,Not Placed,Not Applicable,0.0
+STU141,Aadhya Rao,Female,20,Civil Engineering,6.63,82.0,6,1,3,4,84.2,71.5,Placed,Cognizant,8.39
+STU142,Rahul Patel,Male,22,Mechanical Engineering,7.0,73.4,4,0,4,6,49.3,80.7,Not Placed,Not Applicable,0.0
+STU143,Ishaan Bhatt,Male,22,Electronics & Communication,7.2,59.2,1,2,4,1,42.0,70.8,Not Placed,Not Applicable,0.0
+STU144,Manav Bhatt,Male,20,Artificial Intelligence & Machine Learning,7.4,100.0,9,1,5,2,66.7,63.8,Placed,Tech Mahindra,10.76
+STU145,Dhruv Kapoor,Male,24,Information Technology,7.27,77.1,3,1,1,2,35.9,72.3,Not Placed,Not Applicable,0.0
+STU146,Rohan Chauhan,Male,23,Computer Science Engineering,8.06,68.0,2,2,3,5,59.0,64.5,Placed,Wipro,9.09
+STU147,Aditi Nair,Female,20,Computer Science Engineering,5.75,63.7,6,1,2,1,55.6,65.4,Not Placed,Not Applicable,0.0
+STU148,Rahul Mehta,Male,24,Mechanical Engineering,5.92,68.0,2,1,1,1,58.0,60.4,Not Placed,Not Applicable,0.0
+STU149,Nikhil Pandey,Male,20,Electronics & Communication,7.59,91.0,4,1,2,7,95.9,77.5,Not Placed,Not Applicable,0.0
+STU150,Krishna Malhotra,Male,20,Electronics & Communication,6.8,92.7,7,0,3,3,50.6,26.5,Not Placed,Not Applicable,0.0
+STU151,Aditi Dwivedi,Female,21,Civil Engineering,8.28,87.8,9,2,7,0,63.0,33.0,Placed,Wipro,13.47
+STU152,Krishna Reddy,Male,24,Electronics & Communication,8.57,81.6,6,1,4,2,38.4,80.4,Placed,Wipro,9.86
+STU153,Siddharth Agarwal,Male,23,Information Technology,7.63,65.1,5,1,1,1,78.9,62.1,Not Placed,Not Applicable,0.0
+STU154,Ishaan Chatterjee,Male,21,Artificial Intelligence & Machine Learning,6.33,71.2,5,0,1,1,58.8,78.8,Not Placed,Not Applicable,0.0
+STU155,Rey Pandey,Other,20,Civil Engineering,8.45,66.7,2,2,1,3,83.2,55.9,Not Placed,Not Applicable,0.0
+STU156,Manav Tripathi,Male,25,Computer Science Engineering,7.6,86.9,5,0,4,3,17.8,90.1,Placed,Deloitte,7.14
+STU157,Anika Gupta,Female,20,Civil Engineering,5.91,67.2,5,2,6,5,61.0,63.0,Placed,Tech Mahindra,9.26
+STU158,Simran Nair,Female,20,Mechanical Engineering,6.0,71.4,6,2,6,1,64.4,71.7,Not Placed,Not Applicable,0.0
+STU159,Krishna Bansal,Male,24,Computer Science Engineering,8.92,77.8,9,2,0,4,78.4,58.3,Placed,TCS,11.17
+STU160,Tanvi Saxena,Female,24,Information Technology,8.75,60.0,2,0,8,4,50.4,51.5,Placed,HCLTech,11.43
+STU161,Aditya Yadav,Male,21,Mechanical Engineering,5.0,80.6,5,2,3,5,76.2,38.9,Placed,HCLTech,8.18
+STU162,Neha Verma,Female,23,Information Technology,6.04,78.7,2,1,4,3,52.5,76.8,Not Placed,Not Applicable,0.0
+STU163,Ishita Kumar,Female,21,Civil Engineering,8.54,94.2,4,1,2,2,63.7,70.9,Placed,Tech Mahindra,9.48
+STU164,Aryan Joshi,Male,22,Civil Engineering,7.38,70.2,4,1,2,3,78.6,66.4,Placed,Accenture,9.31
+STU165,Dhruv Mehta,Male,20,Information Technology,8.1,64.4,3,2,2,2,45.3,47.9,Placed,Deloitte,12.41
+STU166,Aditi Saxena,Female,25,Artificial Intelligence & Machine Learning,7.34,75.5,7,0,0,2,75.3,86.2,Not Placed,Not Applicable,0.0
+STU167,Nikhil Singh,Male,20,Civil Engineering,8.05,66.8,6,0,6,8,68.0,66.6,Placed,TCS,13.66
+STU168,Karan Chatterjee,Male,20,Electronics & Communication,7.41,80.5,7,2,4,1,56.0,75.5,Placed,Cognizant,11.66
+STU169,Aarav Agarwal,Male,21,Computer Science Engineering,6.96,57.7,4,1,3,3,50.0,65.0,Not Placed,Not Applicable,0.0
+STU170,Neha Nair,Female,25,Computer Science Engineering,8.46,72.7,5,0,3,1,24.2,48.7,Placed,Cognizant,10.45
+STU171,Pooja Verma,Female,25,Information Technology,7.6,68.9,9,0,1,8,60.6,79.9,Placed,Infosys,11.49
+STU172,Aditya Nair,Male,25,Civil Engineering,8.05,86.8,5,0,5,3,56.0,71.8,Not Placed,Not Applicable,0.0
+STU173,Vivaan Pandey,Male,21,Mechanical Engineering,7.56,70.3,7,0,3,6,73.5,62.3,Not Placed,Not Applicable,0.0
+STU174,Karan Chauhan,Male,20,Electronics & Communication,6.91,59.2,4,2,4,4,71.7,71.5,Placed,HCLTech,9.82
+STU175,Simran Gupta,Female,21,Computer Science Engineering,9.01,77.6,7,0,2,1,81.3,77.3,Placed,Wipro,11.55
+STU176,Krishna Malhotra,Male,24,Artificial Intelligence & Machine Learning,7.75,83.8,4,0,0,1,81.9,74.9,Not Placed,Not Applicable,0.0
+STU177,Kritika Bansal,Female,24,Mechanical Engineering,7.04,76.7,2,0,1,2,100.0,39.3,Not Placed,Not Applicable,0.0
+STU178,Dhruv Bhatt,Male,21,Computer Science Engineering,8.68,72.7,5,1,1,2,71.2,42.6,Not Placed,Not Applicable,0.0
+STU179,Meera Saxena,Female,25,Artificial Intelligence & Machine Learning,6.08,71.9,5,1,4,1,46.5,76.0,Not Placed,Not Applicable,0.0
+STU180,Dhruv Kapoor,Male,20,Computer Science Engineering,9.64,81.4,2,0,0,6,76.9,54.6,Not Placed,Not Applicable,0.0
+STU181,Kabir Bhatt,Male,21,Electronics & Communication,7.22,69.3,6,0,2,1,90.9,49.3,Not Placed,Not Applicable,0.0
+STU182,Krishna Tripathi,Male,21,Civil Engineering,6.13,76.1,4,0,3,3,70.5,70.6,Not Placed,Not Applicable,0.0
+STU183,Aadhya Sharma,Female,21,Artificial Intelligence & Machine Learning,9.31,89.0,10,1,3,5,23.8,48.8,Placed,Tech Mahindra,11.55
+STU184,Shreya Gupta,Female,22,Information Technology,6.94,64.4,3,1,3,4,72.0,57.8,Not Placed,Not Applicable,0.0
+STU185,Karan Malhotra,Male,24,Electronics & Communication,7.64,79.5,3,3,1,1,50.7,77.8,Placed,IBM,10.95
+STU186,Simran Singh,Female,25,Civil Engineering,8.12,58.5,7,2,2,4,38.2,42.3,Placed,Deloitte,10.68
+STU187,Simran Kumar,Female,23,Computer Science Engineering,8.58,82.7,5,2,3,1,65.4,44.5,Placed,HCLTech,12.4
+STU188,Rahul Sharma,Male,25,Information Technology,7.7,68.3,7,0,4,3,34.5,40.8,Placed,Wipro,8.57
+STU189,Sameer Kapoor,Male,23,Artificial Intelligence & Machine Learning,6.75,92.2,6,0,4,1,80.4,52.1,Placed,TCS,9.19
+STU190,Rohan Kapoor,Male,22,Mechanical Engineering,7.62,62.3,4,1,1,1,75.2,66.2,Not Placed,Not Applicable,0.0
+STU191,Nikhil Bhatt,Male,21,Information Technology,6.98,85.3,3,2,0,3,60.4,55.7,Not Placed,Not Applicable,0.0
+STU192,Saanvi Yadav,Female,22,Computer Science Engineering,7.65,94.7,8,2,3,5,52.1,87.6,Placed,Deloitte,13.05
+STU193,Aadhya Kumar,Female,22,Electronics & Communication,9.03,67.6,3,3,4,5,58.7,71.8,Placed,Capgemini,12.44
+STU194,Sneha Patel,Female,20,Mechanical Engineering,8.16,69.7,7,2,0,1,43.8,64.7,Placed,Tech Mahindra,7.66
+STU195,Krishna Saxena,Male,24,Computer Science Engineering,7.61,68.7,7,3,1,2,60.6,84.0,Placed,Wipro,11.09
+STU196,Sameer Saxena,Male,23,Mechanical Engineering,8.14,74.2,5,1,4,1,10.8,45.0,Not Placed,Not Applicable,0.0
+STU197,Sneha Chauhan,Female,21,Computer Science Engineering,8.21,86.2,5,0,2,1,63.6,78.0,Placed,IBM,10.02
+STU198,Diya Bhatt,Female,23,Information Technology,6.32,73.2,4,1,5,1,64.1,61.5,Not Placed,Not Applicable,0.0
+STU199,Anika Tripathi,Female,25,Information Technology,7.44,66.5,6,0,5,3,77.2,58.2,Placed,Wipro,10.39
+STU200,Saanvi Joshi,Female,23,Electronics & Communication,9.96,55.8,1,2,4,1,67.4,74.2,Not Placed,Not Applicable,0.0
+STU201,Kritika Rao,Female,25,Artificial Intelligence & Machine Learning,8.61,99.2,7,2,2,1,79.6,58.8,Placed,Cognizant,12.48
+STU202,Siddharth Chauhan,Male,24,Mechanical Engineering,6.9,100.0,6,2,5,1,71.8,67.7,Not Placed,Not Applicable,0.0
+STU203,Sameer Nair,Male,25,Electronics & Communication,6.8,86.7,5,1,6,5,80.7,63.5,Not Placed,Not Applicable,0.0
+STU204,Sneha Verma,Female,23,Electronics & Communication,6.76,70.3,6,0,1,2,100.0,69.6,Not Placed,Not Applicable,0.0
+STU205,Kavya Bansal,Female,23,Mechanical Engineering,8.27,89.0,3,0,2,4,69.6,57.4,Not Placed,Not Applicable,0.0
+STU206,Aditya Saxena,Male,25,Mechanical Engineering,9.01,91.4,1,2,2,0,65.3,78.9,Placed,Accenture,12.85
+STU207,Reyansh Kumar,Male,22,Computer Science Engineering,7.98,76.9,6,2,2,3,83.4,34.3,Placed,HCLTech,9.19
+STU208,Aadhya Rao,Female,24,Artificial Intelligence & Machine Learning,7.56,80.5,8,0,3,1,53.6,74.6,Placed,Accenture,11.36
+STU209,Yash Pandey,Male,20,Civil Engineering,6.96,94.8,2,0,1,4,59.9,36.6,Not Placed,Not Applicable,0.0
+STU210,Nikhil Reddy,Male,21,Computer Science Engineering,7.73,60.3,3,1,4,0,69.6,53.7,Placed,Capgemini,11.61
+STU211,Aditya Tripathi,Male,23,Electronics & Communication,6.58,92.0,7,1,2,0,63.3,72.8,Placed,HCLTech,9.2
+STU212,Shreya Nair,Female,21,Civil Engineering,5.46,76.3,6,1,0,4,63.2,34.8,Not Placed,Not Applicable,0.0
+STU213,Ishita Chatterjee,Female,20,Computer Science Engineering,9.04,66.6,10,1,1,3,78.2,67.5,Placed,IBM,13.41
+STU214,Manav Bansal,Male,21,Electronics & Communication,6.39,67.6,8,3,5,4,31.5,44.4,Placed,Wipro,9.28
+STU215,Ishita Gupta,Female,20,Information Technology,7.08,69.6,7,1,5,1,98.6,50.5,Placed,Deloitte,11.64
+STU216,Reyansh Chauhan,Male,25,Information Technology,8.06,65.5,4,0,3,3,70.7,49.8,Placed,Capgemini,10.92
+STU217,Yash Bhatt,Male,22,Computer Science Engineering,8.83,100.0,7,1,2,4,54.8,44.9,Placed,Accenture,11.72
+STU218,Kavya Singh,Female,23,Computer Science Engineering,7.66,85.9,8,0,1,1,91.3,39.1,Not Placed,Not Applicable,0.0
+STU219,Tanvi Kumar,Female,20,Electronics & Communication,6.21,92.8,5,1,2,6,63.9,96.1,Placed,Cognizant,9.52
+STU220,Diya Iyer,Female,21,Mechanical Engineering,7.1,86.7,5,0,3,2,64.3,62.3,Not Placed,Not Applicable,0.0
+STU221,Kavya Saxena,Female,23,Mechanical Engineering,6.72,80.7,6,0,3,2,58.1,46.4,Not Placed,Not Applicable,0.0
+STU222,Ishita Reddy,Female,22,Information Technology,7.36,80.9,4,2,5,1,88.4,56.6,Not Placed,Not Applicable,0.0
+STU223,Aditya Bhatt,Male,25,Computer Science Engineering,8.63,75.2,6,3,3,2,61.8,65.5,Placed,HCLTech,13.01
+STU224,Vivaan Yadav,Male,23,Electronics & Communication,5.0,76.2,6,2,2,3,51.9,59.3,Not Placed,Not Applicable,0.0
+STU225,Kabir Reddy,Male,20,Artificial Intelligence & Machine Learning,6.99,63.1,8,0,5,2,80.0,46.0,Placed,Capgemini,8.69
+STU226,Yash Joshi,Male,22,Civil Engineering,6.92,93.0,5,0,3,1,83.3,51.5,Not Placed,Not Applicable,0.0
+STU227,Aadhya Iyer,Female,21,Mechanical Engineering,6.14,58.2,7,2,4,4,90.9,82.8,Not Placed,Not Applicable,0.0
+STU228,Vivaan Saxena,Male,22,Electronics & Communication,7.99,67.3,5,0,4,1,73.4,44.0,Not Placed,Not Applicable,0.0
+STU229,Aditi Patel,Female,22,Civil Engineering,5.99,100.0,7,2,4,4,82.6,35.0,Placed,Wipro,6.67
+STU230,Riya Kumar,Female,24,Computer Science Engineering,6.1,81.6,5,4,5,2,57.3,59.2,Placed,IBM,8.0
+STU231,Meera Chatterjee,Female,22,Electronics & Communication,8.25,82.1,7,0,4,2,80.5,36.0,Not Placed,Not Applicable,0.0
+STU232,Reyansh Kumar,Male,22,Artificial Intelligence & Machine Learning,8.9,87.6,7,1,4,1,75.4,51.4,Placed,Deloitte,14.44
+STU233,Meera Chauhan,Female,23,Civil Engineering,7.32,61.5,3,1,0,0,71.5,46.2,Not Placed,Not Applicable,0.0
+STU234,Arjun Chauhan,Male,21,Artificial Intelligence & Machine Learning,6.18,63.3,8,1,4,5,34.0,46.4,Not Placed,Not Applicable,0.0
+STU235,Nikhil Chatterjee,Male,23,Electronics & Communication,6.69,74.7,5,0,2,2,55.0,66.0,Placed,Deloitte,8.85
+STU236,Riya Chauhan,Female,23,Mechanical Engineering,8.41,69.2,5,2,5,5,61.2,68.9,Not Placed,Not Applicable,0.0
+STU237,Siddharth Gupta,Male,20,Computer Science Engineering,7.52,79.1,4,0,5,3,71.6,52.9,Placed,Accenture,10.03
+STU238,Ishaan Verma,Male,23,Artificial Intelligence & Machine Learning,7.3,85.8,6,1,2,1,100.0,63.6,Not Placed,Not Applicable,0.0
+STU239,Riya Chauhan,Female,24,Mechanical Engineering,7.71,96.7,5,2,4,0,77.5,52.2,Placed,Deloitte,12.73
+STU240,Karan Sharma,Male,24,Information Technology,7.36,89.7,6,2,0,3,47.4,71.0,Placed,Infosys,9.83
+STU241,Myra Saxena,Female,20,Artificial Intelligence & Machine Learning,8.95,68.1,6,1,2,4,53.4,42.8,Not Placed,Not Applicable,0.0
+STU242,Nisha Agarwal,Female,25,Computer Science Engineering,6.65,75.5,7,1,0,2,87.0,67.5,Not Placed,Not Applicable,0.0
+STU243,Riya Sharma,Female,21,Computer Science Engineering,6.54,72.2,10,2,6,1,52.6,68.6,Placed,Infosys,10.69
+STU244,Rahul Reddy,Male,21,Mechanical Engineering,6.02,67.8,6,2,4,0,80.3,100.0,Not Placed,Not Applicable,0.0
+STU245,Karan Iyer,Male,23,Information Technology,6.86,65.1,4,3,5,1,64.1,38.7,Not Placed,Not Applicable,0.0
+STU246,Neha Bhatt,Female,23,Computer Science Engineering,6.31,100.0,1,1,6,3,59.0,100.0,Not Placed,Not Applicable,0.0
+STU247,Kabir Singh,Male,25,Artificial Intelligence & Machine Learning,7.62,80.1,3,2,5,7,52.8,76.4,Placed,Deloitte,13.67
+STU248,Myra Mehta,Female,23,Artificial Intelligence & Machine Learning,7.42,77.3,8,0,5,4,7.2,92.4,Placed,Capgemini,9.14
+STU249,Aadhya Iyer,Female,21,Computer Science Engineering,6.32,85.8,7,1,2,2,71.7,78.6,Not Placed,Not Applicable,0.0
+STU250,Neha Bhatt,Female,22,Information Technology,7.99,86.4,3,0,3,2,43.1,50.8,Placed,Accenture,9.93
+STU251,Siddharth Pandey,Male,24,Artificial Intelligence & Machine Learning,8.92,93.4,10,0,8,3,36.5,74.9,Not Placed,Not Applicable,0.0
+STU252,Kabir Nair,Male,22,Artificial Intelligence & Machine Learning,7.76,71.1,6,0,0,1,66.5,55.0,Not Placed,Not Applicable,0.0
+STU253,Sneha Dwivedi,Female,22,Electronics & Communication,5.0,84.8,6,1,1,3,80.5,63.7,Not Placed,Not Applicable,0.0
+STU254,Krishna Chatterjee,Male,21,Artificial Intelligence & Machine Learning,9.39,69.1,10,1,3,2,31.5,47.4,Placed,TCS,11.82
+STU255,Vihaan Verma,Male,22,Electronics & Communication,8.15,77.7,9,0,6,3,80.1,54.8,Placed,Accenture,10.92
+STU256,Sameer Chauhan,Male,25,Information Technology,9.36,80.7,7,1,1,1,45.7,78.5,Placed,Deloitte,13.73
+STU257,Pooja Mehta,Female,20,Information Technology,8.49,81.9,7,2,5,6,73.7,71.6,Placed,Deloitte,11.09
+STU258,Diya Chauhan,Female,23,Electronics & Communication,8.69,81.3,7,0,3,2,72.4,80.4,Not Placed,Not Applicable,0.0
+STU259,Tanvi Bansal,Female,20,Information Technology,7.61,89.6,5,0,5,4,58.3,44.0,Not Placed,Not Applicable,0.0
+STU260,Rohan Bansal,Male,24,Mechanical Engineering,7.14,72.8,6,2,7,4,62.5,36.9,Placed,Accenture,11.22
+STU261,Riya Verma,Female,23,Electronics & Communication,7.77,82.2,7,1,5,0,54.9,81.5,Not Placed,Not Applicable,0.0
+STU262,Noor Saxena,Other,22,Information Technology,6.69,70.9,5,2,6,2,66.7,80.4,Not Placed,Not Applicable,0.0
+STU263,Karan Gupta,Male,24,Mechanical Engineering,7.83,100.0,4,1,1,0,66.6,68.2,Not Placed,Not Applicable,0.0
+STU264,Rahul Patel,Male,23,Electronics & Communication,5.0,69.0,5,2,2,3,45.4,71.3,Not Placed,Not Applicable,0.0
+STU265,Nisha Mehta,Female,25,Artificial Intelligence & Machine Learning,7.44,71.6,4,0,1,3,37.6,78.0,Placed,Tech Mahindra,7.26
+STU266,Priya Reddy,Female,25,Computer Science Engineering,8.74,90.6,6,0,5,4,80.2,67.7,Placed,Deloitte,11.67
+STU267,Diya Kapoor,Female,25,Computer Science Engineering,7.49,74.8,2,2,2,4,65.7,73.1,Not Placed,Not Applicable,0.0
+STU268,Aadhya Rao,Female,25,Civil Engineering,9.13,90.6,6,3,2,2,77.7,77.2,Placed,HCLTech,13.37
+STU269,Vihaan Tripathi,Male,22,Electronics & Communication,7.14,81.8,2,1,2,0,49.9,63.6,Placed,Accenture,6.98
+STU270,Vihaan Chatterjee,Male,20,Civil Engineering,8.4,75.2,5,0,2,8,47.2,59.8,Placed,Infosys,8.11
+STU271,Saanvi Bansal,Female,23,Electronics & Communication,6.52,71.0,7,1,2,8,43.8,70.7,Not Placed,Not Applicable,0.0
+STU272,Pooja Rao,Female,22,Information Technology,8.36,70.5,7,1,2,4,58.7,99.0,Placed,HCLTech,11.81
+STU273,Shreya Nair,Female,25,Computer Science Engineering,7.63,75.3,7,0,6,0,66.2,52.3,Not Placed,Not Applicable,0.0
+STU274,Ananya Rao,Female,20,Electronics & Communication,7.18,77.9,6,2,0,3,52.2,58.5,Placed,TCS,7.45
+STU275,Manav Chatterjee,Male,24,Electronics & Communication,5.0,70.0,3,2,1,1,90.2,38.7,Not Placed,Not Applicable,0.0
+STU276,Sameer Kapoor,Male,24,Civil Engineering,7.15,78.7,7,0,4,2,50.4,71.5,Not Placed,Not Applicable,0.0
+STU277,Pooja Singh,Female,24,Artificial Intelligence & Machine Learning,7.61,66.9,3,2,6,3,66.5,57.1,Placed,Infosys,10.3
+STU278,Ishita Tripathi,Female,25,Information Technology,8.23,89.1,8,3,3,1,46.1,44.0,Placed,Wipro,14.06
+STU279,Pooja Mehta,Female,24,Electronics & Communication,8.96,91.4,7,1,3,1,49.9,64.0,Placed,Cognizant,11.24
+STU280,Sneha Sharma,Female,21,Electronics & Communication,9.44,71.5,8,3,3,0,60.4,87.4,Not Placed,Not Applicable,0.0
+STU281,Myra Kapoor,Female,23,Information Technology,8.65,70.9,6,0,4,4,47.0,59.7,Not Placed,Not Applicable,0.0
+STU282,Yash Mishra,Male,23,Mechanical Engineering,6.84,82.1,4,0,1,2,63.6,61.1,Not Placed,Not Applicable,0.0
+STU283,Aryan Pandey,Male,25,Computer Science Engineering,7.1,95.2,3,1,4,2,69.9,86.8,Placed,Capgemini,10.04
+STU284,Vivaan Malhotra,Male,21,Electronics & Communication,8.14,97.8,3,1,4,1,81.7,64.9,Not Placed,Not Applicable,0.0
+STU285,Diya Singh,Female,22,Electronics & Communication,7.92,63.2,2,1,4,0,42.6,46.9,Not Placed,Not Applicable,0.0
+STU286,Nikhil Gupta,Male,22,Civil Engineering,9.03,92.1,7,1,1,3,65.0,75.3,Not Placed,Not Applicable,0.0
+STU287,Karan Reddy,Male,24,Mechanical Engineering,9.88,79.3,8,0,2,0,60.9,81.9,Placed,HCLTech,12.76
+STU288,Krishna Kapoor,Male,20,Artificial Intelligence & Machine Learning,9.67,79.5,7,0,1,4,28.7,62.0,Not Placed,Not Applicable,0.0
+STU289,Aryan Tripathi,Male,22,Artificial Intelligence & Machine Learning,8.89,86.1,5,0,2,3,41.7,67.0,Not Placed,Not Applicable,0.0
+STU290,Diya Kapoor,Female,20,Civil Engineering,7.93,74.2,10,1,2,2,70.5,45.3,Not Placed,Not Applicable,0.0
+STU291,Sameer Tripathi,Male,23,Information Technology,8.75,93.2,5,3,3,3,37.7,51.9,Placed,HCLTech,9.01
+STU292,Aryan Gupta,Male,20,Civil Engineering,9.06,97.1,6,1,2,3,60.7,60.0,Not Placed,Not Applicable,0.0
+STU293,Shreya Yadav,Female,23,Computer Science Engineering,7.25,97.5,5,2,5,0,23.8,66.2,Placed,Accenture,11.99
+STU294,Yash Agarwal,Male,21,Electronics & Communication,6.87,57.9,5,1,5,5,60.1,55.7,Placed,Tech Mahindra,10.23
+STU295,Arjun Tripathi,Male,21,Mechanical Engineering,6.63,77.2,7,1,3,4,25.0,59.4,Not Placed,Not Applicable,0.0
+STU296,Reyansh Mishra,Male,25,Civil Engineering,6.52,56.8,4,0,5,4,51.1,63.1,Placed,Deloitte,6.26
+STU297,Aadhya Gupta,Female,25,Artificial Intelligence & Machine Learning,6.02,70.8,4,3,3,4,54.1,50.0,Not Placed,Not Applicable,0.0
+STU298,Aarav Patel,Male,24,Electronics & Communication,7.65,51.2,7,3,8,3,64.2,61.0,Not Placed,Not Applicable,0.0
+STU299,Aditi Verma,Female,22,Information Technology,6.4,85.4,5,0,8,2,57.5,82.3,Not Placed,Not Applicable,0.0
+STU300,Aditya Bansal,Male,24,Computer Science Engineering,6.62,82.6,6,0,4,4,39.8,56.1,Not Placed,Not Applicable,0.0
+STU301,Dhruv Chatterjee,Male,23,Electronics & Communication,8.1,74.8,5,2,1,1,40.1,51.5,Not Placed,Not Applicable,0.0
+STU302,Yash Yadav,Male,24,Electronics & Communication,7.58,70.5,5,0,0,5,32.9,96.3,Placed,Infosys,10.62
+STU303,Rahul Joshi,Male,20,Civil Engineering,7.83,83.8,4,0,3,6,65.7,68.4,Placed,Wipro,10.07
+STU304,Tanvi Bhatt,Female,23,Information Technology,8.77,67.9,4,1,4,1,64.9,53.4,Placed,TCS,9.14
+STU305,Shreya Dwivedi,Female,25,Artificial Intelligence & Machine Learning,8.26,67.0,4,0,3,3,74.0,74.7,Not Placed,Not Applicable,0.0
+STU306,Riya Kapoor,Female,21,Computer Science Engineering,8.92,65.6,7,2,6,0,53.0,68.8,Not Placed,Not Applicable,0.0
+STU307,Sameer Chatterjee,Male,25,Information Technology,7.48,77.6,6,1,4,1,30.8,56.4,Placed,Tech Mahindra,9.21
+STU308,Harsh Mehta,Male,22,Artificial Intelligence & Machine Learning,9.01,73.0,7,2,4,1,56.3,64.3,Placed,Infosys,11.32
+STU309,Ishita Yadav,Female,23,Mechanical Engineering,7.76,75.4,8,1,3,4,62.2,60.6,Placed,Deloitte,10.24
+STU310,Aditya Tripathi,Male,23,Artificial Intelligence & Machine Learning,7.57,86.3,5,2,2,5,41.0,79.9,Placed,Deloitte,13.84
+STU311,Sameer Kapoor,Male,20,Civil Engineering,8.86,91.6,7,1,5,1,42.7,75.2,Placed,Tech Mahindra,11.83
+STU312,Sameer Mehta,Male,22,Civil Engineering,6.53,97.4,5,2,4,0,70.1,32.9,Placed,HCLTech,7.77
+STU313,Nikhil Yadav,Male,21,Electronics & Communication,9.42,80.7,5,2,3,0,63.8,93.5,Not Placed,Not Applicable,0.0
+STU314,Kritika Singh,Female,23,Civil Engineering,7.12,84.2,8,1,5,5,82.4,60.7,Not Placed,Not Applicable,0.0
+STU315,Kavya Patel,Female,23,Mechanical Engineering,6.18,82.3,7,1,2,3,93.0,90.8,Not Placed,Not Applicable,0.0
+STU316,Meera Bhatt,Female,20,Information Technology,8.05,59.9,5,1,2,3,34.9,75.7,Not Placed,Not Applicable,0.0
+STU317,Vivaan Saxena,Male,24,Computer Science Engineering,7.02,75.6,6,1,2,0,54.5,68.7,Not Placed,Not Applicable,0.0
+STU318,Ishaan Iyer,Male,21,Information Technology,9.43,75.6,3,1,3,1,64.2,63.6,Placed,Wipro,13.13
+STU319,Karan Bansal,Male,25,Information Technology,6.97,73.9,6,0,3,7,68.5,100.0,Not Placed,Not Applicable,0.0
+STU320,Ishaan Dwivedi,Male,22,Mechanical Engineering,7.71,79.5,3,0,3,5,80.3,60.9,Placed,HCLTech,8.98
+STU321,Manav Chatterjee,Male,23,Information Technology,5.97,77.4,4,2,0,1,75.1,54.9,Not Placed,Not Applicable,0.0
+STU322,Tanvi Kapoor,Female,23,Civil Engineering,8.21,68.2,7,0,4,2,82.5,56.3,Placed,HCLTech,12.42
+STU323,Myra Iyer,Female,25,Electronics & Communication,6.62,78.2,1,1,4,0,63.1,65.0,Not Placed,Not Applicable,0.0
+STU324,Karan Bhatt,Male,21,Computer Science Engineering,8.09,72.3,9,1,2,5,50.7,65.0,Placed,Capgemini,9.83
+STU325,Ananya Patel,Female,24,Civil Engineering,6.97,50.0,7,1,4,2,97.1,80.1,Not Placed,Not Applicable,0.0
+STU326,Kavya Joshi,Female,23,Information Technology,5.35,63.2,2,2,2,2,64.8,76.4,Not Placed,Not Applicable,0.0
+STU327,Aryan Rao,Male,21,Artificial Intelligence & Machine Learning,7.53,81.1,10,0,1,2,57.6,76.4,Placed,TCS,7.16
+STU328,Nisha Saxena,Female,25,Electronics & Communication,7.49,93.1,10,2,1,3,42.7,61.6,Not Placed,Not Applicable,0.0
+STU329,Rohan Bansal,Male,20,Computer Science Engineering,8.28,50.9,5,0,1,2,64.9,75.1,Not Placed,Not Applicable,0.0
+STU330,Dhruv Bhatt,Male,24,Electronics & Communication,8.96,69.6,4,1,1,1,80.1,76.7,Not Placed,Not Applicable,0.0
+STU331,Sameer Kapoor,Male,22,Information Technology,9.31,85.2,9,1,2,2,53.0,63.8,Placed,TCS,12.76
+STU332,Meera Rao,Female,23,Information Technology,8.26,90.5,5,3,1,1,59.6,69.2,Not Placed,Not Applicable,0.0
+STU333,Harsh Sharma,Male,21,Civil Engineering,7.68,75.0,6,1,5,0,66.5,76.7,Placed,Capgemini,12.11
+STU334,Kabir Joshi,Male,20,Information Technology,5.97,71.8,8,1,2,7,70.5,68.2,Not Placed,Not Applicable,0.0
+STU335,Manav Sharma,Male,22,Computer Science Engineering,7.6,94.6,5,0,1,3,57.3,69.6,Placed,Capgemini,10.12
+STU336,Vivaan Sharma,Male,21,Information Technology,7.61,89.6,5,1,3,3,54.9,86.1,Placed,Cognizant,11.48
+STU337,Ananya Reddy,Female,21,Civil Engineering,7.2,90.3,3,3,5,1,52.8,68.3,Placed,Deloitte,12.36
+STU338,Neha Sharma,Female,22,Computer Science Engineering,8.03,74.4,4,2,3,2,42.1,55.9,Placed,Cognizant,12.39
+STU339,Karan Tripathi,Male,20,Computer Science Engineering,8.52,93.4,5,1,3,2,48.1,44.8,Placed,Accenture,10.1
+STU340,Krishna Verma,Male,25,Computer Science Engineering,6.58,56.7,3,2,1,1,47.7,66.7,Not Placed,Not Applicable,0.0
+STU341,Reyansh Mehta,Male,20,Computer Science Engineering,6.57,93.6,3,1,2,2,34.2,60.0,Placed,Wipro,8.09
+STU342,Sameer Chatterjee,Male,24,Mechanical Engineering,7.26,79.2,6,1,3,2,79.9,77.1,Not Placed,Not Applicable,0.0
+STU343,Yash Verma,Male,23,Electronics & Communication,6.78,81.5,2,0,2,3,68.5,88.7,Not Placed,Not Applicable,0.0
+STU344,Kabir Pandey,Male,22,Artificial Intelligence & Machine Learning,5.76,68.7,4,1,4,4,64.6,49.6,Placed,HCLTech,10.77
+STU345,Dhruv Bansal,Male,25,Electronics & Communication,6.4,58.2,9,1,4,8,85.5,51.7,Not Placed,Not Applicable,0.0
+STU346,Riya Iyer,Female,22,Artificial Intelligence & Machine Learning,6.17,81.3,5,1,4,3,74.9,64.6,Placed,Capgemini,7.97
+STU347,Ishita Patel,Female,22,Civil Engineering,8.61,86.6,5,2,2,1,47.8,53.0,Not Placed,Not Applicable,0.0
+STU348,Rohan Patel,Male,20,Civil Engineering,9.1,88.4,5,0,3,4,83.1,61.7,Placed,Capgemini,12.01
+STU349,Rohan Mehta,Male,23,Artificial Intelligence & Machine Learning,6.3,87.1,5,1,1,0,79.5,57.0,Not Placed,Not Applicable,0.0
+STU350,Kavya Chatterjee,Female,24,Mechanical Engineering,7.95,84.4,7,1,3,3,41.9,49.9,Placed,Cognizant,11.02
+STU351,Dhruv Joshi,Male,21,Mechanical Engineering,8.27,68.9,7,3,2,0,78.3,77.4,Placed,Capgemini,12.32
+STU352,Riya Chatterjee,Female,21,Artificial Intelligence & Machine Learning,5.91,89.2,5,0,0,1,53.6,66.1,Not Placed,Not Applicable,0.0
+STU353,Kritika Kapoor,Female,22,Artificial Intelligence & Machine Learning,7.56,67.6,5,1,3,4,79.9,92.5,Placed,Deloitte,9.65
+STU354,Krishna Iyer,Male,23,Information Technology,9.93,93.3,8,0,4,2,55.9,70.4,Placed,TCS,13.02
+STU355,Harsh Agarwal,Male,25,Mechanical Engineering,8.08,79.0,2,0,1,5,52.4,84.3,Placed,Cognizant,6.61
+STU356,Saanvi Patel,Female,20,Civil Engineering,7.15,79.4,5,1,2,2,54.3,54.1,Not Placed,Not Applicable,0.0
+STU357,Aditya Reddy,Male,23,Mechanical Engineering,6.84,90.4,6,0,5,4,44.5,53.9,Placed,Deloitte,11.11
+STU358,Priya Malhotra,Female,23,Mechanical Engineering,5.38,92.0,4,0,0,1,35.4,98.3,Not Placed,Not Applicable,0.0
+STU359,Sneha Chatterjee,Female,20,Electronics & Communication,7.87,89.2,5,3,1,2,17.0,55.9,Placed,TCS,8.05
+STU360,Pooja Pandey,Female,22,Mechanical Engineering,9.35,70.2,4,0,2,4,43.0,50.8,Not Placed,Not Applicable,0.0
+STU361,Dhruv Chauhan,Male,23,Mechanical Engineering,6.59,89.2,7,0,2,4,100.0,47.4,Placed,TCS,9.75
+STU362,Neha Mishra,Female,21,Artificial Intelligence & Machine Learning,5.46,70.2,3,0,2,5,70.6,93.7,Not Placed,Not Applicable,0.0
+STU363,Siddharth Pandey,Male,20,Information Technology,6.74,89.5,8,2,4,1,95.6,60.9,Placed,Tech Mahindra,8.85
+STU364,Sameer Singh,Male,25,Mechanical Engineering,8.28,62.9,5,1,3,3,56.3,71.1,Not Placed,Not Applicable,0.0
+STU365,Neha Joshi,Female,24,Computer Science Engineering,6.97,78.9,5,2,3,1,53.6,67.3,Placed,Cognizant,10.98
+STU366,Siddharth Yadav,Male,22,Mechanical Engineering,6.58,70.1,3,0,2,2,92.9,54.1,Not Placed,Not Applicable,0.0
+STU367,Simran Patel,Female,20,Computer Science Engineering,7.42,90.4,8,1,3,4,68.8,60.6,Placed,Wipro,12.4
+STU368,Simran Mishra,Female,24,Information Technology,7.63,93.4,4,3,1,3,44.8,77.7,Placed,IBM,10.67
+STU369,Arjun Saxena,Male,24,Mechanical Engineering,6.01,82.4,3,0,2,0,73.4,46.6,Not Placed,Not Applicable,0.0
+STU370,Rohan Gupta,Male,25,Artificial Intelligence & Machine Learning,7.18,82.0,8,1,0,3,84.5,75.1,Not Placed,Not Applicable,0.0
+STU371,Kabir Mishra,Male,23,Artificial Intelligence & Machine Learning,6.9,88.5,4,1,4,5,36.3,86.5,Placed,IBM,10.39
+STU372,Aditya Rao,Male,25,Information Technology,6.76,93.5,5,0,4,3,70.4,69.4,Placed,Capgemini,10.12
+STU373,Yash Sharma,Male,23,Civil Engineering,6.38,80.4,7,0,6,5,37.5,85.0,Not Placed,Not Applicable,0.0
+STU374,Anika Yadav,Female,23,Computer Science Engineering,8.34,74.0,6,1,3,3,83.5,44.4,Not Placed,Not Applicable,0.0
+STU375,Nikhil Dwivedi,Male,20,Civil Engineering,6.76,87.8,9,2,4,1,66.2,37.5,Placed,Wipro,7.7
+STU376,Harsh Kumar,Male,20,Computer Science Engineering,5.41,57.7,4,1,1,1,73.3,68.6,Not Placed,Not Applicable,0.0
+STU377,Saanvi Yadav,Female,22,Civil Engineering,7.66,90.9,5,1,3,1,58.1,56.2,Not Placed,Not Applicable,0.0
+STU378,Harsh Saxena,Male,23,Civil Engineering,8.13,71.5,5,1,1,1,29.9,78.2,Not Placed,Not Applicable,0.0
+STU379,Simran Bansal,Female,24,Information Technology,6.6,77.1,7,3,3,3,54.1,60.3,Placed,Accenture,8.42
+STU380,Siddharth Reddy,Male,21,Information Technology,6.84,91.0,8,1,2,4,78.7,67.2,Not Placed,Not Applicable,0.0
+STU381,Vihaan Dwivedi,Male,22,Information Technology,6.75,75.0,6,1,5,2,97.9,66.2,Not Placed,Not Applicable,0.0
+STU382,Diya Singh,Female,20,Electronics & Communication,7.05,87.8,5,4,4,3,67.1,66.7,Not Placed,Not Applicable,0.0
+STU383,Diya Kapoor,Female,25,Computer Science Engineering,8.51,93.7,3,1,1,5,49.6,56.9,Not Placed,Not Applicable,0.0
+STU384,Diya Singh,Female,22,Computer Science Engineering,7.29,81.3,6,3,4,1,71.6,44.5,Not Placed,Not Applicable,0.0
+STU385,Myra Mehta,Female,22,Computer Science Engineering,8.24,83.7,4,0,2,4,77.1,61.7,Placed,Infosys,8.78
+STU386,Priya Mishra,Female,22,Information Technology,6.43,78.6,7,0,1,1,64.4,86.8,Placed,Accenture,8.68
+STU387,Siddharth Rao,Male,22,Artificial Intelligence & Machine Learning,7.02,81.4,5,1,6,7,63.3,55.9,Placed,Tech Mahindra,8.97
+STU388,Dhruv Gupta,Male,21,Electronics & Communication,8.35,66.6,5,0,1,4,65.8,55.8,Placed,Wipro,11.14
+STU389,Neha Chatterjee,Female,25,Civil Engineering,6.59,76.5,3,2,4,0,62.8,67.4,Not Placed,Not Applicable,0.0
+STU390,Riya Dwivedi,Female,25,Artificial Intelligence & Machine Learning,8.41,64.5,2,0,4,2,67.4,47.3,Placed,Capgemini,6.96
+STU391,Alex Gupta,Other,25,Information Technology,6.77,69.2,9,1,6,2,94.9,80.1,Not Placed,Not Applicable,0.0
+STU392,Ishaan Singh,Male,23,Information Technology,7.08,56.0,6,1,6,1,25.4,48.8,Not Placed,Not Applicable,0.0
+STU393,Rahul Pandey,Male,24,Mechanical Engineering,9.07,83.2,6,2,1,1,57.7,60.7,Not Placed,Not Applicable,0.0
+STU394,Priya Yadav,Female,25,Civil Engineering,6.96,100.0,4,2,4,5,45.2,100.0,Not Placed,Not Applicable,0.0
+STU395,Sameer Malhotra,Male,22,Mechanical Engineering,7.55,74.5,7,1,6,1,83.3,47.9,Placed,Cognizant,11.76
+STU396,Diya Pandey,Female,22,Civil Engineering,8.02,91.6,7,2,6,2,59.5,87.1,Not Placed,Not Applicable,0.0
+STU397,Aadhya Kumar,Female,25,Computer Science Engineering,7.63,93.5,4,1,2,3,72.1,66.8,Not Placed,Not Applicable,0.0
+STU398,Reyansh Chauhan,Male,25,Mechanical Engineering,7.66,65.6,3,0,4,0,87.7,68.9,Not Placed,Not Applicable,0.0
+STU399,Kavya Rao,Female,22,Mechanical Engineering,7.34,68.2,4,2,4,0,42.5,52.9,Not Placed,Not Applicable,0.0
+STU400,Aditi Malhotra,Female,23,Artificial Intelligence & Machine Learning,6.1,91.9,5,1,3,5,52.5,77.0,Placed,TCS,7.46
+STU401,Krishna Bhatt,Male,20,Civil Engineering,7.75,78.9,6,1,2,4,85.8,59.5,Not Placed,Not Applicable,0.0
+STU402,Kritika Verma,Female,20,Computer Science Engineering,6.67,64.5,6,0,0,3,41.8,47.8,Placed,Wipro,8.76
+STU403,Krishna Patel,Male,25,Electronics & Communication,8.18,72.4,8,1,3,2,53.1,86.8,Not Placed,Not Applicable,0.0
+STU404,Shreya Bhatt,Female,21,Artificial Intelligence & Machine Learning,8.77,85.0,4,1,0,5,33.2,59.2,Not Placed,Not Applicable,0.0
+STU405,Vivaan Gupta,Male,25,Information Technology,5.59,70.5,3,0,1,2,86.5,37.1,Not Placed,Not Applicable,0.0
+STU406,Aadhya Kumar,Female,25,Electronics & Communication,8.77,50.0,6,0,3,1,51.5,61.0,Not Placed,Not Applicable,0.0
+STU407,Aarav Joshi,Male,20,Information Technology,6.99,76.1,2,1,3,3,68.3,77.1,Not Placed,Not Applicable,0.0
+STU408,Dhruv Saxena,Male,22,Information Technology,7.27,77.1,7,4,1,3,74.2,74.7,Placed,Deloitte,12.57
+STU409,Saanvi Chauhan,Female,25,Artificial Intelligence & Machine Learning,6.49,80.1,6,0,8,4,47.5,55.4,Not Placed,Not Applicable,0.0
+STU410,Yash Iyer,Male,22,Mechanical Engineering,7.59,95.1,5,1,3,1,27.7,50.3,Not Placed,Not Applicable,0.0
+STU411,Kabir Gupta,Male,22,Computer Science Engineering,7.47,80.6,5,3,1,2,58.0,44.5,Not Placed,Not Applicable,0.0
+STU412,Tanvi Agarwal,Female,21,Information Technology,8.48,82.9,7,1,2,1,57.8,64.7,Not Placed,Not Applicable,0.0
+STU413,Priya Nair,Female,22,Civil Engineering,6.66,92.7,7,1,3,0,60.9,67.3,Not Placed,Not Applicable,0.0
+STU414,Pooja Reddy,Female,20,Mechanical Engineering,9.06,80.1,5,1,1,3,61.0,75.6,Not Placed,Not Applicable,0.0
+STU415,Ananya Kumar,Female,23,Information Technology,8.06,100.0,7,3,3,0,53.0,62.8,Not Placed,Not Applicable,0.0
+STU416,Harsh Joshi,Male,23,Mechanical Engineering,7.49,64.8,7,2,3,2,52.3,62.3,Not Placed,Not Applicable,0.0
+STU417,Aryan Yadav,Male,24,Mechanical Engineering,7.22,68.8,6,0,5,2,67.4,60.8,Not Placed,Not Applicable,0.0
+STU418,Aarav Bhatt,Male,25,Civil Engineering,7.09,87.4,5,0,5,2,47.2,67.3,Not Placed,Not Applicable,0.0
+STU419,Kritika Bhatt,Female,20,Information Technology,7.16,95.1,6,0,6,1,60.3,63.0,Not Placed,Not Applicable,0.0
+STU420,Sneha Kumar,Female,22,Computer Science Engineering,7.57,77.6,3,2,4,3,51.9,79.1,Not Placed,Not Applicable,0.0
+STU421,Aditi Kumar,Female,23,Artificial Intelligence & Machine Learning,7.19,67.9,6,2,1,0,67.3,69.7,Placed,Deloitte,9.94
+STU422,Pooja Kumar,Female,20,Artificial Intelligence & Machine Learning,6.76,100.0,5,2,1,2,82.0,66.6,Not Placed,Not Applicable,0.0
+STU423,Nikhil Bansal,Male,23,Electronics & Communication,7.57,70.5,5,1,5,1,82.7,64.4,Placed,Infosys,8.71
+STU424,Dhruv Saxena,Male,22,Computer Science Engineering,6.56,84.1,2,0,4,2,85.2,50.9,Placed,Cognizant,7.38
+STU425,Yash Kapoor,Male,23,Electronics & Communication,7.72,95.8,3,1,3,6,56.0,65.0,Placed,Capgemini,7.9
+STU426,Reyansh Yadav,Male,25,Artificial Intelligence & Machine Learning,7.18,74.7,5,1,1,0,57.5,55.3,Not Placed,Not Applicable,0.0
+STU427,Harsh Chatterjee,Male,25,Artificial Intelligence & Machine Learning,8.1,72.5,7,0,1,0,39.2,70.2,Not Placed,Not Applicable,0.0
+STU428,Tanvi Verma,Female,24,Mechanical Engineering,8.39,73.4,6,1,1,4,55.8,61.9,Not Placed,Not Applicable,0.0
+STU429,Rohan Kumar,Male,24,Information Technology,8.39,90.8,7,3,1,1,56.5,90.0,Not Placed,Not Applicable,0.0
+STU430,Harsh Sharma,Male,23,Computer Science Engineering,7.72,92.7,8,3,2,0,50.9,46.1,Placed,Accenture,9.86
+STU431,Aditya Patel,Male,20,Mechanical Engineering,7.83,80.4,6,1,0,2,50.8,18.5,Not Placed,Not Applicable,0.0
+STU432,Aadhya Dwivedi,Female,25,Computer Science Engineering,7.08,100.0,6,0,0,6,31.4,69.0,Placed,Accenture,9.56
+STU433,Aadhya Sharma,Female,20,Electronics & Communication,8.08,80.4,4,0,2,2,37.8,55.4,Not Placed,Not Applicable,0.0
+STU434,Nikhil Mishra,Male,20,Mechanical Engineering,8.19,95.5,9,3,0,2,62.8,67.4,Placed,Wipro,10.43
+STU435,Sameer Yadav,Male,23,Artificial Intelligence & Machine Learning,5.83,74.8,3,1,5,2,63.5,46.5,Placed,TCS,9.6
+STU436,Priya Tripathi,Female,20,Mechanical Engineering,7.78,100.0,6,4,4,2,70.7,93.6,Placed,Infosys,14.34
+STU437,Manav Saxena,Male,25,Information Technology,8.77,98.8,7,2,2,3,57.3,59.2,Placed,Tech Mahindra,9.07
+STU438,Sneha Verma,Female,22,Information Technology,7.04,78.5,7,1,1,3,62.2,54.4,Not Placed,Not Applicable,0.0
+STU439,Simran Bhatt,Female,24,Computer Science Engineering,6.83,97.2,3,0,2,1,84.5,93.4,Not Placed,Not Applicable,0.0
+STU440,Krishna Saxena,Male,22,Artificial Intelligence & Machine Learning,6.98,96.6,5,1,1,1,61.0,77.6,Not Placed,Not Applicable,0.0
+STU441,Yash Iyer,Male,20,Civil Engineering,5.9,98.6,4,1,2,0,50.6,85.8,Not Placed,Not Applicable,0.0
+STU442,Sam Pandey,Other,22,Artificial Intelligence & Machine Learning,7.53,50.2,2,0,5,3,40.6,62.4,Not Placed,Not Applicable,0.0
+STU443,Dhruv Patel,Male,25,Information Technology,7.43,88.6,6,0,6,3,76.4,65.7,Not Placed,Not Applicable,0.0
+STU444,Harsh Pandey,Male,25,Information Technology,7.6,86.5,4,0,4,2,31.3,56.0,Placed,Cognizant,9.5
+STU445,Neha Tripathi,Female,20,Electronics & Communication,7.82,85.7,9,0,2,2,46.9,54.3,Placed,HCLTech,11.02
+STU446,Meera Chatterjee,Female,23,Computer Science Engineering,6.6,82.6,7,1,3,2,69.5,71.0,Not Placed,Not Applicable,0.0
+STU447,Sam Pandey,Other,22,Artificial Intelligence & Machine Learning,7.67,83.0,6,3,4,3,27.7,59.5,Placed,Cognizant,11.84
+STU448,Riya Chatterjee,Female,23,Electronics & Communication,7.84,95.4,5,0,1,2,50.9,98.3,Placed,Cognizant,9.22
+STU449,Aarav Pandey,Male,23,Computer Science Engineering,6.91,86.5,6,3,0,3,64.3,77.6,Placed,TCS,9.3
+STU450,Ishaan Patel,Male,21,Computer Science Engineering,7.82,82.6,5,3,7,3,55.1,93.2,Not Placed,Not Applicable,0.0
+STU451,Aadhya Kapoor,Female,20,Computer Science Engineering,7.48,93.7,6,2,2,2,44.3,31.6,Not Placed,Not Applicable,0.0
+STU452,Yash Verma,Male,24,Information Technology,6.77,85.0,9,3,6,2,51.3,93.4,Not Placed,Not Applicable,0.0
+STU453,Aarav Pandey,Male,25,Civil Engineering,7.68,86.2,3,2,2,3,76.7,29.2,Not Placed,Not Applicable,0.0
+STU454,Sneha Nair,Female,25,Computer Science Engineering,7.11,100.0,5,1,3,2,95.0,46.1,Not Placed,Not Applicable,0.0
+STU455,Manav Chatterjee,Male,20,Computer Science Engineering,8.1,74.8,7,1,6,2,64.5,38.7,Not Placed,Not Applicable,0.0
+STU456,Nikhil Joshi,Male,24,Artificial Intelligence & Machine Learning,7.16,61.8,5,0,4,3,26.2,68.6,Not Placed,Not Applicable,0.0
+STU457,Yash Joshi,Male,25,Electronics & Communication,6.11,80.9,9,0,2,4,72.2,64.7,Placed,Infosys,10.05
+STU458,Nikhil Yadav,Male,20,Electronics & Communication,7.67,82.6,7,2,7,5,54.9,76.9,Not Placed,Not Applicable,0.0
+STU459,Ishaan Bhatt,Male,25,Information Technology,7.63,88.7,4,0,5,4,42.3,63.7,Not Placed,Not Applicable,0.0
+STU460,Sameer Singh,Male,23,Mechanical Engineering,6.32,81.3,6,2,5,1,47.6,83.4,Not Placed,Not Applicable,0.0
+STU461,Aarav Sharma,Male,22,Electronics & Communication,8.15,89.1,4,0,0,2,48.4,51.0,Not Placed,Not Applicable,0.0
+STU462,Nisha Agarwal,Female,22,Civil Engineering,8.1,100.0,4,3,2,1,36.6,83.7,Placed,Capgemini,10.18
+STU463,Tanvi Dwivedi,Female,25,Mechanical Engineering,6.53,89.6,5,0,1,5,60.9,64.5,Not Placed,Not Applicable,0.0
+STU464,Meera Kumar,Female,21,Artificial Intelligence & Machine Learning,6.74,91.7,8,1,5,4,94.9,100.0,Placed,Tech Mahindra,10.19
+STU465,Kavya Verma,Female,24,Artificial Intelligence & Machine Learning,7.26,78.4,7,1,3,0,42.2,78.1,Placed,Deloitte,10.13
+STU466,Manav Patel,Male,24,Computer Science Engineering,6.64,63.4,5,0,8,3,94.4,60.4,Placed,HCLTech,10.21
+STU467,Rohan Sharma,Male,24,Artificial Intelligence & Machine Learning,8.04,52.4,7,3,2,4,65.7,64.5,Placed,Tech Mahindra,11.69
+STU468,Kavya Bhatt,Female,23,Civil Engineering,7.55,73.8,6,0,3,4,60.3,49.9,Not Placed,Not Applicable,0.0
+STU469,Rahul Chauhan,Male,24,Information Technology,6.31,50.0,3,1,2,1,56.2,70.4,Not Placed,Not Applicable,0.0
+STU470,Kavya Dwivedi,Female,22,Artificial Intelligence & Machine Learning,6.58,86.2,5,0,3,2,47.5,60.4,Not Placed,Not Applicable,0.0
+STU471,Karan Reddy,Male,23,Mechanical Engineering,8.59,75.4,5,0,5,3,67.3,75.9,Not Placed,Not Applicable,0.0
+STU472,Sneha Singh,Female,20,Information Technology,8.94,64.2,7,0,8,3,71.4,44.9,Placed,HCLTech,10.2
+STU473,Vivaan Patel,Male,24,Computer Science Engineering,7.94,81.6,4,3,3,2,18.3,60.1,Not Placed,Not Applicable,0.0
+STU474,Tanvi Singh,Female,24,Artificial Intelligence & Machine Learning,7.19,71.1,4,1,3,3,100.0,47.6,Not Placed,Not Applicable,0.0
+STU475,Reyansh Mishra,Male,20,Information Technology,6.96,85.4,5,2,5,5,29.4,48.5,Not Placed,Not Applicable,0.0
+STU476,Ari Verma,Other,24,Mechanical Engineering,7.95,88.5,4,1,2,3,52.6,74.1,Not Placed,Not Applicable,0.0
+STU477,Manav Chauhan,Male,20,Computer Science Engineering,7.48,71.6,5,0,4,5,16.0,81.9,Placed,Accenture,8.28
+STU478,Rohan Pandey,Male,23,Artificial Intelligence & Machine Learning,5.79,77.2,5,2,3,4,57.2,30.0,Not Placed,Not Applicable,0.0
+STU479,Nisha Chauhan,Female,22,Information Technology,8.43,82.6,5,2,5,0,53.7,92.9,Not Placed,Not Applicable,0.0
+STU480,Aryan Sharma,Male,20,Artificial Intelligence & Machine Learning,8.75,63.1,7,0,4,1,52.8,86.1,Not Placed,Not Applicable,0.0
+STU481,Anika Bhatt,Female,21,Electronics & Communication,8.14,82.6,8,1,4,4,67.5,44.8,Placed,Capgemini,10.74
+STU482,Aditi Sharma,Female,20,Information Technology,6.31,62.8,7,1,2,2,57.6,77.4,Placed,Deloitte,7.84
+STU483,Dhruv Mehta,Male,24,Artificial Intelligence & Machine Learning,6.76,86.8,2,2,4,0,71.7,58.1,Placed,Wipro,10.37
+STU484,Aditi Dwivedi,Female,23,Civil Engineering,5.54,74.8,4,0,5,5,39.7,63.5,Not Placed,Not Applicable,0.0
+STU485,Nisha Bhatt,Female,25,Electronics & Communication,9.0,62.8,5,1,3,2,63.4,74.0,Not Placed,Not Applicable,0.0
+STU486,Ananya Bansal,Female,23,Computer Science Engineering,7.04,73.0,2,0,0,2,50.6,72.2,Not Placed,Not Applicable,0.0
+STU487,Nikhil Gupta,Male,25,Information Technology,9.73,73.5,4,1,3,0,55.3,56.4,Placed,Tech Mahindra,9.82
+STU488,Dhruv Patel,Male,20,Mechanical Engineering,9.36,92.8,5,2,6,1,66.9,56.3,Placed,Infosys,14.28
+STU489,Sneha Gupta,Female,22,Electronics & Communication,6.5,82.1,5,2,5,1,52.9,57.2,Placed,Cognizant,8.51
+STU490,Riya Malhotra,Female,21,Computer Science Engineering,6.69,68.5,6,1,3,2,60.1,82.1,Placed,Infosys,9.5
+STU491,Sameer Nair,Male,23,Civil Engineering,7.87,99.8,3,0,1,3,41.2,37.1,Placed,Capgemini,7.45
+STU492,Diya Malhotra,Female,24,Information Technology,5.65,87.5,5,0,6,2,81.7,62.6,Not Placed,Not Applicable,0.0
+STU493,Rohan Gupta,Male,25,Computer Science Engineering,6.96,76.0,6,1,3,5,75.1,88.6,Placed,Wipro,8.85
+STU494,Ishaan Agarwal,Male,24,Computer Science Engineering,6.86,61.4,6,2,2,2,63.8,75.6,Not Placed,Not Applicable,0.0
+STU495,Vivaan Patel,Male,22,Computer Science Engineering,9.25,74.9,6,3,3,2,57.6,80.8,Placed,Capgemini,11.43
+STU496,Dhruv Kumar,Male,25,Mechanical Engineering,7.56,77.4,6,0,6,0,60.1,62.8,Placed,HCLTech,10.46
+STU497,Diya Agarwal,Female,23,Computer Science Engineering,7.12,84.4,5,1,1,2,81.3,47.5,Not Placed,Not Applicable,0.0
+STU498,Arjun Kapoor,Male,20,Computer Science Engineering,6.77,87.3,6,1,3,0,73.8,65.8,Not Placed,Not Applicable,0.0
+STU499,Pooja Singh,Female,24,Mechanical Engineering,8.29,89.7,4,0,1,2,81.6,54.7,Not Placed,Not Applicable,0.0
+STU500,Rey Agarwal,Other,22,Artificial Intelligence & Machine Learning,6.9,60.7,5,0,4,2,55.8,98.5,Not Placed,Not Applicable,0.0
+STU501,Myra Malhotra,Female,23,Computer Science Engineering,7.35,82.5,3,1,1,4,70.7,62.6,Not Placed,Not Applicable,0.0
+STU502,Manav Yadav,Male,23,Computer Science Engineering,6.76,78.1,8,2,2,3,83.4,74.6,Not Placed,Not Applicable,0.0
+STU503,Aryan Chauhan,Male,23,Computer Science Engineering,5.88,100.0,5,0,5,6,45.3,90.5,Not Placed,Not Applicable,0.0
+STU504,Sneha Pandey,Female,23,Computer Science Engineering,6.4,80.8,8,1,2,5,44.2,48.5,Placed,HCLTech,9.36
+STU505,Meera Kapoor,Female,25,Electronics & Communication,6.9,72.5,6,1,3,2,67.0,30.8,Placed,Cognizant,10.63
+STU506,Yash Bhatt,Male,23,Computer Science Engineering,7.14,81.3,4,1,4,0,39.8,72.4,Not Placed,Not Applicable,0.0
+STU507,Saanvi Iyer,Female,24,Computer Science Engineering,7.18,79.9,6,1,3,3,29.3,75.2,Placed,TCS,10.42
+STU508,Nisha Kapoor,Female,22,Mechanical Engineering,7.31,56.1,7,1,6,4,83.1,58.8,Placed,Capgemini,13.33
+STU509,Saanvi Dwivedi,Female,25,Electronics & Communication,6.91,84.9,5,0,3,2,86.3,47.7,Not Placed,Not Applicable,0.0
+STU510,Neha Rao,Female,23,Information Technology,8.75,76.3,6,0,3,2,40.8,69.6,Not Placed,Not Applicable,0.0
+STU511,Nisha Verma,Female,21,Information Technology,8.35,79.7,4,1,3,3,36.2,64.6,Not Placed,Not Applicable,0.0
+STU512,Sameer Singh,Male,21,Artificial Intelligence & Machine Learning,7.26,69.5,6,1,2,2,50.2,69.8,Placed,Accenture,9.64
+STU513,Meera Dwivedi,Female,22,Information Technology,7.65,66.9,6,2,3,3,84.6,48.0,Placed,Tech Mahindra,10.81
+STU514,Kritika Malhotra,Female,20,Information Technology,7.03,90.5,4,0,4,3,54.6,69.9,Placed,Infosys,11.51
+STU515,Yash Gupta,Male,20,Artificial Intelligence & Machine Learning,5.0,93.3,3,0,3,3,63.7,77.3,Not Placed,Not Applicable,0.0
+STU516,Ishaan Agarwal,Male,25,Civil Engineering,7.42,85.0,8,1,3,3,67.8,42.4,Not Placed,Not Applicable,0.0
+STU517,Kabir Singh,Male,25,Computer Science Engineering,7.71,58.3,7,0,3,1,65.1,86.9,Placed,Capgemini,10.37
+STU518,Simran Verma,Female,25,Mechanical Engineering,5.79,85.8,4,1,2,3,88.9,68.8,Not Placed,Not Applicable,0.0
+STU519,Alex Chauhan,Other,20,Computer Science Engineering,7.9,58.4,6,1,5,2,49.0,77.8,Not Placed,Not Applicable,0.0
+STU520,Vihaan Bhatt,Male,21,Mechanical Engineering,7.12,72.1,3,1,4,3,60.2,45.8,Placed,Accenture,7.43
+STU521,Sneha Mehta,Female,20,Electronics & Communication,7.74,90.4,2,2,0,1,66.2,75.2,Placed,TCS,7.17
+STU522,Dhruv Nair,Male,24,Mechanical Engineering,7.15,87.9,8,0,2,2,61.1,40.3,Placed,Deloitte,8.66
+STU523,Anika Chauhan,Female,23,Computer Science Engineering,8.65,85.5,6,2,5,3,40.1,50.8,Placed,HCLTech,10.18
+STU524,Anika Saxena,Female,25,Information Technology,7.63,95.8,5,2,3,2,35.5,69.0,Not Placed,Not Applicable,0.0
+STU525,Shreya Nair,Female,21,Information Technology,8.4,86.7,6,0,1,2,35.1,60.9,Not Placed,Not Applicable,0.0
+STU526,Kabir Saxena,Male,22,Electronics & Communication,8.48,55.8,10,2,1,3,75.1,65.4,Placed,TCS,11.04
+STU527,Vihaan Tripathi,Male,22,Information Technology,6.28,75.6,7,4,2,2,47.2,93.9,Not Placed,Not Applicable,0.0
+STU528,Vihaan Rao,Male,23,Information Technology,6.66,79.5,3,1,2,3,70.4,65.2,Placed,Capgemini,9.18
+STU529,Krishna Rao,Male,21,Information Technology,7.85,78.1,2,2,5,4,63.6,75.6,Not Placed,Not Applicable,0.0
+STU530,Ananya Yadav,Female,20,Artificial Intelligence & Machine Learning,7.03,72.6,8,1,3,2,44.5,64.0,Placed,Wipro,11.37
+STU531,Neha Nair,Female,20,Information Technology,7.16,67.6,7,0,7,4,44.9,63.6,Not Placed,Not Applicable,0.0
+STU532,Rey Chauhan,Other,24,Computer Science Engineering,8.69,100.0,7,2,5,2,64.4,50.3,Not Placed,Not Applicable,0.0
+STU533,Ari Rao,Other,24,Civil Engineering,7.09,75.3,4,3,3,2,63.4,70.5,Placed,TCS,11.59
+STU534,Rohan Reddy,Male,20,Electronics & Communication,6.43,100.0,6,4,6,0,70.9,100.0,Not Placed,Not Applicable,0.0
+STU535,Aditi Nair,Female,22,Civil Engineering,6.57,66.3,4,1,4,1,53.8,66.3,Not Placed,Not Applicable,0.0
+STU536,Priya Joshi,Female,25,Artificial Intelligence & Machine Learning,9.58,87.9,7,1,2,3,46.8,61.0,Not Placed,Not Applicable,0.0
+STU537,Meera Bansal,Female,22,Mechanical Engineering,7.22,82.8,7,0,1,3,64.0,82.1,Not Placed,Not Applicable,0.0
+STU538,Arjun Singh,Male,24,Mechanical Engineering,6.04,68.9,4,3,3,4,87.6,80.3,Placed,HCLTech,11.37
+STU539,Manav Saxena,Male,23,Electronics & Communication,5.63,74.4,8,1,2,5,28.2,71.6,Not Placed,Not Applicable,0.0
+STU540,Siddharth Singh,Male,20,Electronics & Communication,6.78,79.8,6,0,4,0,47.6,60.4,Placed,Infosys,6.03
+STU541,Anika Nair,Female,24,Artificial Intelligence & Machine Learning,7.2,69.9,6,0,6,3,72.6,82.2,Not Placed,Not Applicable,0.0
+STU542,Simran Mishra,Female,24,Mechanical Engineering,8.35,76.9,3,1,2,3,65.9,66.8,Not Placed,Not Applicable,0.0
+STU543,Vihaan Nair,Male,25,Information Technology,8.25,51.6,6,1,3,4,72.9,78.7,Not Placed,Not Applicable,0.0
+STU544,Ananya Pandey,Female,20,Computer Science Engineering,7.39,88.5,4,4,2,1,54.3,52.7,Not Placed,Not Applicable,0.0
+STU545,Simran Kumar,Female,25,Artificial Intelligence & Machine Learning,6.95,94.7,6,0,6,4,33.0,56.2,Placed,Accenture,10.7
+STU546,Yash Bansal,Male,20,Civil Engineering,7.74,85.5,8,0,1,1,92.1,66.5,Not Placed,Not Applicable,0.0
+STU547,Aditya Yadav,Male,25,Mechanical Engineering,5.65,100.0,6,1,8,2,81.5,46.5,Placed,Wipro,7.51
+STU548,Diya Sharma,Female,22,Civil Engineering,9.38,88.2,4,3,3,4,61.6,59.5,Placed,TCS,11.65
+STU549,Nikhil Rao,Male,23,Electronics & Communication,8.05,93.7,7,1,6,4,46.9,45.8,Placed,TCS,13.44
+STU550,Meera Kumar,Female,23,Artificial Intelligence & Machine Learning,8.27,94.9,6,1,1,6,53.2,41.8,Placed,Cognizant,9.01
+STU551,Yash Gupta,Male,20,Computer Science Engineering,6.33,50.0,10,1,4,4,66.1,100.0,Not Placed,Not Applicable,0.0
+STU552,Anika Iyer,Female,21,Computer Science Engineering,8.68,85.1,6,2,1,4,57.5,55.9,Not Placed,Not Applicable,0.0
+STU553,Kabir Reddy,Male,24,Computer Science Engineering,6.94,63.4,4,0,0,0,61.7,57.2,Not Placed,Not Applicable,0.0
+STU554,Tanvi Chauhan,Female,24,Artificial Intelligence & Machine Learning,6.45,65.8,7,3,0,3,91.0,66.2,Placed,Capgemini,8.28
+STU555,Diya Gupta,Female,20,Computer Science Engineering,7.36,67.9,5,1,4,2,78.6,49.1,Not Placed,Not Applicable,0.0
+STU556,Krishna Dwivedi,Male,25,Information Technology,7.34,76.2,6,2,4,1,40.9,57.5,Not Placed,Not Applicable,0.0
+STU557,Manav Gupta,Male,21,Civil Engineering,6.32,87.8,4,4,4,2,63.4,92.5,Placed,HCLTech,13.06
+STU558,Kabir Rao,Male,22,Information Technology,6.51,85.2,5,0,2,3,52.6,70.4,Not Placed,Not Applicable,0.0
+STU559,Anika Reddy,Female,25,Mechanical Engineering,6.43,79.8,6,2,3,2,67.4,79.8,Not Placed,Not Applicable,0.0
+STU560,Shreya Iyer,Female,25,Electronics & Communication,6.44,88.7,5,1,3,2,60.9,88.6,Placed,Tech Mahindra,8.86
+STU561,Anika Saxena,Female,20,Artificial Intelligence & Machine Learning,7.01,89.4,4,0,4,1,100.0,68.2,Not Placed,Not Applicable,0.0
+STU562,Sameer Mishra,Male,20,Artificial Intelligence & Machine Learning,6.01,85.3,6,1,7,3,69.7,61.7,Not Placed,Not Applicable,0.0
+STU563,Vihaan Patel,Male,24,Computer Science Engineering,6.71,59.3,4,0,0,2,59.6,43.5,Not Placed,Not Applicable,0.0
+STU564,Kabir Mehta,Male,20,Artificial Intelligence & Machine Learning,8.45,71.1,3,0,3,4,95.2,59.3,Not Placed,Not Applicable,0.0
+STU565,Karan Malhotra,Male,20,Electronics & Communication,8.22,80.3,7,2,4,1,65.7,62.6,Not Placed,Not Applicable,0.0
+STU566,Saanvi Joshi,Female,20,Computer Science Engineering,6.35,88.8,7,2,4,2,34.7,52.9,Not Placed,Not Applicable,0.0
+STU567,Arjun Sharma,Male,24,Computer Science Engineering,8.36,64.1,3,2,3,1,59.8,88.2,Not Placed,Not Applicable,0.0
+STU568,Vihaan Gupta,Male,22,Artificial Intelligence & Machine Learning,5.43,79.9,2,0,3,2,73.0,81.5,Not Placed,Not Applicable,0.0
+STU569,Kavya Joshi,Female,22,Civil Engineering,9.83,61.2,3,2,3,2,70.7,79.8,Placed,HCLTech,13.33
+STU570,Aarav Patel,Male,20,Mechanical Engineering,8.7,92.3,5,1,2,2,80.1,63.3,Not Placed,Not Applicable,0.0
+STU571,Rohan Mehta,Male,24,Electronics & Communication,6.84,82.9,8,2,2,3,64.8,49.5,Not Placed,Not Applicable,0.0
+STU572,Saanvi Chauhan,Female,22,Computer Science Engineering,7.78,63.8,5,2,4,2,63.5,84.9,Not Placed,Not Applicable,0.0
+STU573,Nikhil Verma,Male,25,Mechanical Engineering,6.0,63.8,4,2,2,2,36.8,70.0,Not Placed,Not Applicable,0.0
+STU574,Aadhya Yadav,Female,22,Mechanical Engineering,7.46,84.6,6,1,4,2,89.5,76.6,Placed,Tech Mahindra,11.98
+STU575,Riya Patel,Female,22,Electronics & Communication,7.22,96.5,5,0,4,5,56.5,74.3,Placed,Capgemini,7.76
+STU576,Riya Chatterjee,Female,24,Civil Engineering,6.57,66.8,3,1,4,2,44.4,69.7,Placed,IBM,6.89
+STU577,Aditya Rao,Male,25,Artificial Intelligence & Machine Learning,6.93,89.4,3,1,4,1,100.0,95.0,Not Placed,Not Applicable,0.0
+STU578,Pooja Gupta,Female,24,Civil Engineering,6.83,73.5,3,1,4,1,92.2,55.1,Placed,Wipro,9.63
+STU579,Reyansh Verma,Male,20,Civil Engineering,6.27,89.9,10,3,2,2,53.9,60.4,Placed,Wipro,9.61
+STU580,Dhruv Verma,Male,23,Computer Science Engineering,6.54,88.2,7,1,2,5,28.1,89.6,Not Placed,Not Applicable,0.0
+STU581,Reyansh Bansal,Male,22,Information Technology,5.96,81.9,4,2,4,4,49.1,66.2,Not Placed,Not Applicable,0.0
+STU582,Rey Verma,Other,23,Civil Engineering,8.26,58.0,8,1,4,2,90.4,63.1,Not Placed,Not Applicable,0.0
+STU583,Harsh Joshi,Male,24,Computer Science Engineering,6.47,88.2,4,3,7,4,65.2,61.2,Placed,Tech Mahindra,8.44
+STU584,Dhruv Singh,Male,24,Information Technology,6.18,86.0,8,1,3,0,37.7,75.2,Placed,Tech Mahindra,11.04
+STU585,Aadhya Chauhan,Female,24,Civil Engineering,8.24,84.9,6,2,2,6,76.1,61.6,Not Placed,Not Applicable,0.0
+STU586,Yash Bhatt,Male,23,Information Technology,7.77,82.3,4,1,2,4,58.2,59.9,Not Placed,Not Applicable,0.0
+STU587,Rahul Nair,Male,24,Computer Science Engineering,8.2,69.5,7,4,1,4,50.3,74.9,Placed,Tech Mahindra,10.4
+STU588,Rahul Yadav,Male,20,Electronics & Communication,8.32,93.0,6,0,0,2,51.7,66.4,Not Placed,Not Applicable,0.0
+STU589,Nikhil Agarwal,Male,24,Computer Science Engineering,9.34,90.8,6,1,3,1,85.5,49.9,Not Placed,Not Applicable,0.0
+STU590,Dhruv Joshi,Male,21,Information Technology,7.24,67.1,6,0,2,2,71.8,65.5,Not Placed,Not Applicable,0.0
+STU591,Harsh Gupta,Male,23,Computer Science Engineering,5.94,95.8,6,1,2,1,35.3,85.9,Not Placed,Not Applicable,0.0
+STU592,Meera Chauhan,Female,21,Electronics & Communication,7.67,81.6,7,4,1,1,68.6,76.5,Not Placed,Not Applicable,0.0
+STU593,Siddharth Joshi,Male,24,Information Technology,6.73,81.5,10,0,0,1,63.9,87.8,Not Placed,Not Applicable,0.0
+STU594,Arjun Tripathi,Male,20,Mechanical Engineering,6.44,77.9,8,3,4,5,54.4,54.0,Placed,Tech Mahindra,8.65
+STU595,Riya Saxena,Female,22,Electronics & Communication,7.5,79.1,6,1,1,2,55.4,81.1,Not Placed,Not Applicable,0.0
+STU596,Dhruv Sharma,Male,25,Information Technology,8.27,96.5,5,2,4,5,46.4,55.3,Not Placed,Not Applicable,0.0
+STU597,Kritika Patel,Female,25,Electronics & Communication,6.56,92.4,5,1,6,5,50.1,46.5,Not Placed,Not Applicable,0.0
+STU598,Manav Joshi,Male,24,Computer Science Engineering,8.67,92.1,3,1,1,2,67.2,53.0,Placed,Cognizant,12.05
+STU599,Krishna Sharma,Male,20,Electronics & Communication,6.41,82.2,7,1,3,5,57.0,67.0,Not Placed,Not Applicable,0.0
+STU600,Rahul Yadav,Male,23,Computer Science Engineering,7.16,90.7,3,0,2,5,71.8,80.4,Not Placed,Not Applicable,0.0
+STU601,Reyansh Tripathi,Male,21,Civil Engineering,7.79,70.0,5,1,5,2,47.9,69.7,Placed,IBM,11.9
+STU602,Vivaan Malhotra,Male,21,Computer Science Engineering,7.01,87.0,7,1,3,3,74.7,62.7,Placed,Accenture,6.98
+STU603,Vihaan Sharma,Male,21,Information Technology,5.62,78.2,5,4,1,2,85.7,49.5,Placed,IBM,9.06
+STU604,Manav Chauhan,Male,23,Electronics & Communication,8.33,55.3,5,0,1,3,61.9,75.6,Not Placed,Not Applicable,0.0
+STU605,Vivaan Reddy,Male,25,Information Technology,6.78,61.0,3,0,3,5,71.4,79.5,Not Placed,Not Applicable,0.0
+STU606,Vivaan Bhatt,Male,20,Computer Science Engineering,8.14,72.0,8,3,2,2,72.1,69.5,Placed,IBM,12.64
+STU607,Rohan Sharma,Male,23,Information Technology,6.14,85.0,4,1,4,5,53.0,49.2,Not Placed,Not Applicable,0.0
+STU608,Aryan Gupta,Male,21,Electronics & Communication,6.31,72.1,4,2,5,5,72.1,77.1,Placed,Cognizant,12.64
+STU609,Harsh Pandey,Male,24,Electronics & Communication,8.26,72.9,2,1,3,3,21.2,83.4,Not Placed,Not Applicable,0.0
+STU610,Saanvi Chatterjee,Female,22,Artificial Intelligence & Machine Learning,7.74,89.2,5,1,2,5,14.0,88.0,Placed,Accenture,5.58
+STU611,Reyansh Gupta,Male,23,Information Technology,6.96,73.3,5,3,4,2,56.1,58.4,Placed,Capgemini,11.53
+STU612,Sneha Kapoor,Female,23,Information Technology,7.76,96.0,6,0,1,6,73.4,71.5,Not Placed,Not Applicable,0.0
+STU613,Aadhya Tripathi,Female,20,Electronics & Communication,6.45,94.0,3,0,4,4,60.5,57.0,Placed,Accenture,6.58
+STU614,Kabir Yadav,Male,20,Electronics & Communication,7.51,80.3,7,1,2,0,75.4,51.2,Not Placed,Not Applicable,0.0
+STU615,Aditi Bansal,Female,23,Information Technology,7.53,89.0,2,3,3,4,40.4,88.7,Placed,Deloitte,11.04
+STU616,Priya Patel,Female,21,Artificial Intelligence & Machine Learning,7.03,87.4,5,0,3,2,77.9,73.5,Not Placed,Not Applicable,0.0
+STU617,Manav Chauhan,Male,22,Computer Science Engineering,6.56,77.1,6,1,1,3,91.3,84.4,Not Placed,Not Applicable,0.0
+STU618,Aditya Saxena,Male,20,Computer Science Engineering,7.47,90.3,6,2,2,2,49.5,46.6,Placed,Deloitte,9.49
+STU619,Priya Malhotra,Female,21,Computer Science Engineering,7.35,92.1,6,1,2,2,75.9,69.3,Placed,Capgemini,7.59
+STU620,Myra Gupta,Female,24,Information Technology,6.93,68.6,7,0,4,2,62.4,72.6,Not Placed,Not Applicable,0.0
+STU621,Rahul Mehta,Male,20,Electronics & Communication,6.37,81.8,8,4,3,3,70.0,52.5,Placed,Wipro,9.82
+STU622,Harsh Malhotra,Male,21,Computer Science Engineering,7.41,81.7,5,0,2,2,91.3,87.3,Placed,Accenture,8.05
+STU623,Rohan Kapoor,Male,21,Civil Engineering,6.94,90.2,4,0,2,0,67.9,61.3,Not Placed,Not Applicable,0.0
+STU624,Aditya Verma,Male,22,Computer Science Engineering,6.37,74.7,7,1,3,6,75.8,71.8,Placed,IBM,6.43
+STU625,Diya Gupta,Female,22,Mechanical Engineering,7.44,72.8,5,1,2,2,39.3,56.7,Placed,Wipro,10.65
+STU626,Manav Malhotra,Male,24,Electronics & Communication,9.01,82.0,8,2,3,0,75.2,47.1,Placed,TCS,11.69
+STU627,Harsh Chatterjee,Male,21,Artificial Intelligence & Machine Learning,7.03,94.2,4,0,4,3,91.0,78.7,Placed,Accenture,9.73
+STU628,Priya Bhatt,Female,25,Computer Science Engineering,8.9,65.6,4,2,2,1,45.4,70.7,Not Placed,Not Applicable,0.0
+STU629,Vivaan Bhatt,Male,21,Electronics & Communication,9.51,67.7,6,1,2,0,56.2,68.6,Not Placed,Not Applicable,0.0
+STU630,Aarav Singh,Male,22,Artificial Intelligence & Machine Learning,6.45,73.8,2,2,1,2,74.4,60.8,Placed,Wipro,6.75
+STU631,Tanvi Sharma,Female,25,Civil Engineering,7.41,75.9,5,3,3,2,70.1,70.3,Not Placed,Not Applicable,0.0
+STU632,Tanvi Agarwal,Female,20,Information Technology,9.5,58.8,5,1,3,2,37.5,84.0,Placed,Accenture,9.27
+STU633,Sameer Tripathi,Male,20,Civil Engineering,7.28,98.0,6,0,3,3,65.0,54.7,Placed,Infosys,9.03
+STU634,Aditya Gupta,Male,23,Artificial Intelligence & Machine Learning,7.44,78.4,4,2,4,3,56.0,73.4,Not Placed,Not Applicable,0.0
+STU635,Rohan Patel,Male,22,Electronics & Communication,5.73,76.6,4,1,3,1,44.6,68.0,Placed,Capgemini,7.67
+STU636,Karan Dwivedi,Male,23,Electronics & Communication,6.87,99.5,8,1,2,3,86.4,62.2,Not Placed,Not Applicable,0.0
+STU637,Vivaan Joshi,Male,25,Electronics & Communication,7.96,88.6,5,0,3,1,62.1,40.3,Placed,Capgemini,10.37
+STU638,Vivaan Singh,Male,22,Computer Science Engineering,9.83,73.6,7,0,4,3,79.7,64.8,Not Placed,Not Applicable,0.0
+STU639,Yash Singh,Male,24,Electronics & Communication,7.2,82.0,4,1,6,3,40.9,75.1,Not Placed,Not Applicable,0.0
+STU640,Karan Yadav,Male,21,Information Technology,5.74,79.5,5,1,3,5,72.6,69.9,Not Placed,Not Applicable,0.0
+STU641,Karan Malhotra,Male,24,Mechanical Engineering,5.99,97.4,6,0,3,1,81.1,43.4,Placed,IBM,6.84
+STU642,Harsh Chatterjee,Male,25,Artificial Intelligence & Machine Learning,7.36,78.0,9,1,3,5,57.6,83.7,Not Placed,Not Applicable,0.0
+STU643,Reyansh Iyer,Male,22,Civil Engineering,8.58,62.7,5,1,3,2,53.1,89.7,Not Placed,Not Applicable,0.0
+STU644,Vivaan Pandey,Male,25,Computer Science Engineering,8.04,57.5,5,1,5,1,38.5,63.4,Not Placed,Not Applicable,0.0
+STU645,Siddharth Mishra,Male,21,Mechanical Engineering,7.86,97.7,8,0,4,1,46.4,99.7,Not Placed,Not Applicable,0.0
+STU646,Aadhya Mishra,Female,20,Mechanical Engineering,8.71,70.5,5,2,1,3,53.9,52.6,Not Placed,Not Applicable,0.0
+STU647,Diya Nair,Female,20,Mechanical Engineering,6.68,88.0,6,1,3,5,44.4,45.9,Not Placed,Not Applicable,0.0
+STU648,Diya Iyer,Female,25,Information Technology,7.42,80.9,8,2,4,1,48.2,49.8,Placed,Capgemini,12.26
+STU649,Simran Saxena,Female,23,Information Technology,6.88,75.0,4,2,2,3,64.8,68.7,Not Placed,Not Applicable,0.0
+STU650,Yash Reddy,Male,22,Civil Engineering,7.13,76.9,6,2,2,4,67.0,38.3,Not Placed,Not Applicable,0.0
+STU651,Siddharth Reddy,Male,22,Artificial Intelligence & Machine Learning,6.39,99.0,9,2,1,2,81.6,60.3,Placed,Wipro,10.56
+STU652,Aditya Dwivedi,Male,20,Information Technology,7.06,62.6,7,1,4,1,48.3,100.0,Placed,Deloitte,8.08
+STU653,Kavya Malhotra,Female,24,Electronics & Communication,7.37,75.4,6,2,1,4,62.4,42.4,Not Placed,Not Applicable,0.0
+STU654,Nisha Mehta,Female,21,Electronics & Communication,7.03,90.9,5,1,3,3,54.5,56.8,Not Placed,Not Applicable,0.0
+STU655,Rahul Agarwal,Male,24,Computer Science Engineering,7.24,64.6,4,0,2,3,53.2,49.5,Placed,Tech Mahindra,5.74
+STU656,Aarav Singh,Male,24,Electronics & Communication,7.81,95.8,4,1,0,2,56.3,60.7,Not Placed,Not Applicable,0.0
+STU657,Vihaan Mehta,Male,25,Mechanical Engineering,8.64,90.7,9,2,1,0,58.5,59.8,Not Placed,Not Applicable,0.0
+STU658,Ishaan Bansal,Male,20,Computer Science Engineering,8.71,83.3,8,1,1,3,66.5,55.0,Not Placed,Not Applicable,0.0
+STU659,Aadhya Mehta,Female,20,Civil Engineering,8.16,74.0,4,3,3,4,56.1,62.7,Not Placed,Not Applicable,0.0
+STU660,Kritika Tripathi,Female,20,Computer Science Engineering,6.14,63.1,6,0,3,4,84.1,74.5,Not Placed,Not Applicable,0.0
+STU661,Vihaan Patel,Male,25,Artificial Intelligence & Machine Learning,7.04,88.5,6,0,4,3,31.3,85.8,Not Placed,Not Applicable,0.0
+STU662,Sam Kumar,Other,23,Computer Science Engineering,7.13,100.0,8,4,3,5,81.0,60.7,Placed,Deloitte,14.42
+STU663,Kritika Gupta,Female,24,Computer Science Engineering,6.74,81.8,6,3,3,4,55.4,65.1,Placed,Infosys,7.79
+STU664,Krishna Rao,Male,25,Civil Engineering,7.74,58.1,5,2,4,0,58.6,71.9,Placed,Capgemini,9.87
+STU665,Sameer Mehta,Male,22,Artificial Intelligence & Machine Learning,5.81,85.5,4,1,4,3,61.8,46.5,Placed,Infosys,8.74
+STU666,Arjun Rao,Male,21,Information Technology,9.09,90.3,6,3,3,1,74.7,62.7,Not Placed,Not Applicable,0.0
+STU667,Arjun Pandey,Male,23,Computer Science Engineering,8.6,69.0,5,2,1,3,46.2,57.4,Not Placed,Not Applicable,0.0
+STU668,Vivaan Dwivedi,Male,22,Electronics & Communication,7.88,72.3,6,1,2,2,50.2,79.3,Not Placed,Not Applicable,0.0
+STU669,Reyansh Kapoor,Male,24,Electronics & Communication,7.34,71.0,5,0,0,4,71.0,91.3,Not Placed,Not Applicable,0.0
+STU670,Kabir Pandey,Male,20,Artificial Intelligence & Machine Learning,8.63,73.6,5,2,3,1,31.4,53.3,Not Placed,Not Applicable,0.0
+STU671,Krishna Kumar,Male,24,Artificial Intelligence & Machine Learning,8.09,77.9,4,1,3,8,61.4,84.2,Placed,Tech Mahindra,11.5
+STU672,Ananya Chauhan,Female,25,Civil Engineering,8.51,69.7,7,0,1,1,47.6,43.1,Not Placed,Not Applicable,0.0
+STU673,Manav Chauhan,Male,21,Artificial Intelligence & Machine Learning,7.34,65.2,6,3,2,2,43.9,68.0,Placed,Cognizant,10.07
+STU674,Manav Kumar,Male,25,Information Technology,9.19,82.1,9,0,4,4,32.5,68.9,Placed,Deloitte,12.69
+STU675,Karan Singh,Male,23,Artificial Intelligence & Machine Learning,8.57,77.8,3,2,2,3,75.9,42.7,Placed,Infosys,10.19
+STU676,Alex Gupta,Other,23,Mechanical Engineering,7.91,74.8,7,0,5,5,64.9,52.6,Placed,Capgemini,10.62
+STU677,Nikhil Iyer,Male,21,Artificial Intelligence & Machine Learning,8.66,81.0,5,2,4,2,49.9,51.1,Not Placed,Not Applicable,0.0
+STU678,Harsh Pandey,Male,22,Information Technology,6.98,61.8,10,0,3,3,59.0,45.3,Not Placed,Not Applicable,0.0
+STU679,Saanvi Verma,Female,22,Artificial Intelligence & Machine Learning,6.23,83.2,7,2,3,2,42.3,25.0,Placed,Cognizant,8.06
+STU680,Kritika Agarwal,Female,23,Civil Engineering,7.72,75.0,6,2,4,4,52.3,61.9,Placed,HCLTech,10.55
+STU681,Simran Joshi,Female,23,Artificial Intelligence & Machine Learning,7.34,82.9,5,1,3,4,58.4,63.7,Not Placed,Not Applicable,0.0
+STU682,Aditya Reddy,Male,20,Mechanical Engineering,7.2,84.8,4,1,2,2,63.2,63.6,Placed,Cognizant,9.42
+STU683,Harsh Patel,Male,22,Information Technology,8.62,93.6,6,1,6,1,69.1,76.5,Placed,HCLTech,11.61
+STU684,Priya Dwivedi,Female,21,Computer Science Engineering,7.57,81.2,3,2,1,2,29.5,35.9,Not Placed,Not Applicable,0.0
+STU685,Priya Chauhan,Female,22,Mechanical Engineering,7.66,92.8,3,2,3,1,69.1,59.3,Placed,IBM,13.45
+STU686,Nikhil Reddy,Male,20,Artificial Intelligence & Machine Learning,7.07,76.1,8,3,2,7,30.9,100.0,Not Placed,Not Applicable,0.0
+STU687,Shreya Saxena,Female,25,Mechanical Engineering,8.28,76.7,2,0,4,1,69.8,78.3,Not Placed,Not Applicable,0.0
+STU688,Rohan Reddy,Male,23,Civil Engineering,8.1,78.9,5,1,2,3,58.2,78.4,Placed,IBM,10.69
+STU689,Ananya Verma,Female,23,Mechanical Engineering,8.27,89.3,3,1,3,2,81.6,49.8,Placed,HCLTech,9.77
+STU690,Rahul Sharma,Male,20,Computer Science Engineering,6.9,87.6,5,1,2,1,49.9,62.1,Not Placed,Not Applicable,0.0
+STU691,Kabir Chatterjee,Male,21,Mechanical Engineering,8.7,81.6,6,2,2,4,76.1,30.5,Placed,Wipro,13.26
+STU692,Ishaan Dwivedi,Male,23,Information Technology,9.24,65.3,7,3,3,5,41.0,73.8,Placed,Infosys,12.21
+STU693,Aryan Pandey,Male,24,Mechanical Engineering,8.24,87.4,8,0,3,2,63.9,86.0,Placed,Tech Mahindra,10.62
+STU694,Vivaan Joshi,Male,23,Electronics & Communication,6.59,69.7,4,1,4,4,25.3,43.3,Placed,Tech Mahindra,6.5
+STU695,Ishaan Bansal,Male,24,Mechanical Engineering,6.6,69.0,5,2,4,4,77.9,47.6,Not Placed,Not Applicable,0.0
+STU696,Aditi Bansal,Female,20,Information Technology,7.02,66.3,10,1,2,3,93.1,64.5,Not Placed,Not Applicable,0.0
+STU697,Karan Mishra,Male,20,Information Technology,6.84,79.0,5,1,2,1,49.4,67.3,Not Placed,Not Applicable,0.0
+STU698,Aadhya Yadav,Female,23,Computer Science Engineering,7.33,94.5,4,1,4,3,64.2,56.9,Placed,Tech Mahindra,11.52
+STU699,Aarav Pandey,Male,22,Mechanical Engineering,8.03,68.4,4,2,2,2,70.0,52.8,Placed,Capgemini,10.52
+STU700,Arjun Joshi,Male,24,Information Technology,7.69,100.0,5,1,2,2,34.1,52.9,Not Placed,Not Applicable,0.0
+STU701,Karan Joshi,Male,21,Information Technology,7.6,90.9,5,2,8,2,48.5,64.3,Not Placed,Not Applicable,0.0
+STU702,Aryan Sharma,Male,23,Mechanical Engineering,7.16,62.4,5,0,3,3,47.4,73.8,Placed,Tech Mahindra,10.11
+STU703,Karan Mishra,Male,21,Electronics & Communication,7.33,75.4,5,0,3,1,100.0,64.3,Not Placed,Not Applicable,0.0
+STU704,Aditya Saxena,Male,23,Computer Science Engineering,8.2,67.5,5,1,4,1,80.8,62.8,Not Placed,Not Applicable,0.0
+STU705,Nikhil Kumar,Male,22,Electronics & Communication,5.39,88.0,4,1,1,2,58.1,38.6,Not Placed,Not Applicable,0.0
+STU706,Noor Dwivedi,Other,22,Information Technology,7.39,68.1,6,2,4,4,76.0,78.0,Not Placed,Not Applicable,0.0
+STU707,Ishaan Malhotra,Male,22,Information Technology,7.69,60.5,6,3,4,2,65.8,64.2,Placed,Tech Mahindra,11.54
+STU708,Saanvi Iyer,Female,25,Computer Science Engineering,8.18,76.1,6,2,4,4,72.7,58.5,Placed,Capgemini,13.89
+STU709,Harsh Kapoor,Male,22,Computer Science Engineering,6.39,94.0,2,1,3,2,43.0,68.8,Not Placed,Not Applicable,0.0
+STU710,Nisha Mehta,Female,20,Artificial Intelligence & Machine Learning,6.34,77.7,6,1,3,1,86.7,52.3,Not Placed,Not Applicable,0.0
+STU711,Nisha Mishra,Female,20,Electronics & Communication,7.98,84.8,2,1,2,4,48.2,58.8,Not Placed,Not Applicable,0.0
+STU712,Sneha Kumar,Female,25,Computer Science Engineering,5.5,85.2,5,1,2,3,49.1,66.6,Not Placed,Not Applicable,0.0
+STU713,Arjun Rao,Male,24,Information Technology,8.73,61.9,7,2,2,4,72.6,54.8,Not Placed,Not Applicable,0.0
+STU714,Ishaan Nair,Male,21,Civil Engineering,7.63,69.2,8,2,2,1,68.2,40.3,Not Placed,Not Applicable,0.0
+STU715,Reyansh Kapoor,Male,23,Computer Science Engineering,8.96,80.1,6,1,3,1,62.4,37.9,Not Placed,Not Applicable,0.0
+STU716,Meera Bansal,Female,23,Information Technology,6.31,73.3,7,0,0,3,77.1,71.7,Not Placed,Not Applicable,0.0
+STU717,Riya Joshi,Female,25,Mechanical Engineering,6.96,100.0,5,2,4,1,41.1,64.5,Placed,Accenture,7.39
+STU718,Kavya Verma,Female,20,Civil Engineering,5.0,65.3,4,2,3,6,95.2,64.0,Not Placed,Not Applicable,0.0
+STU719,Yash Chatterjee,Male,23,Mechanical Engineering,6.6,69.1,10,1,6,4,53.0,47.6,Not Placed,Not Applicable,0.0
+STU720,Ishita Bansal,Female,20,Electronics & Communication,7.22,83.5,7,2,4,1,60.4,64.7,Not Placed,Not Applicable,0.0
+STU721,Saanvi Singh,Female,24,Mechanical Engineering,5.44,72.5,3,0,1,4,95.5,59.0,Not Placed,Not Applicable,0.0
+STU722,Sameer Reddy,Male,21,Information Technology,7.01,50.0,2,0,4,0,49.2,56.0,Not Placed,Not Applicable,0.0
+STU723,Rohan Bhatt,Male,24,Mechanical Engineering,5.41,100.0,5,0,6,3,80.4,63.9,Placed,TCS,11.21
+STU724,Simran Nair,Female,25,Computer Science Engineering,7.14,67.1,8,1,3,2,58.1,69.4,Not Placed,Not Applicable,0.0
+STU725,Saanvi Yadav,Female,22,Civil Engineering,8.55,86.7,6,3,2,4,46.8,91.2,Not Placed,Not Applicable,0.0
+STU726,Riya Verma,Female,22,Information Technology,7.37,65.0,1,2,1,2,55.1,73.5,Not Placed,Not Applicable,0.0
+STU727,Karan Dwivedi,Male,22,Information Technology,9.06,69.6,5,1,4,5,72.2,77.9,Placed,IBM,11.55
+STU728,Meera Verma,Female,24,Artificial Intelligence & Machine Learning,8.19,60.5,5,1,4,0,80.3,81.6,Not Placed,Not Applicable,0.0
+STU729,Aryan Nair,Male,23,Mechanical Engineering,8.75,71.1,1,2,3,1,66.1,53.5,Placed,Deloitte,9.62
+STU730,Yash Bansal,Male,21,Computer Science Engineering,6.64,72.3,6,0,2,2,33.2,60.2,Not Placed,Not Applicable,0.0
+STU731,Ishaan Chatterjee,Male,22,Mechanical Engineering,6.61,78.4,3,0,4,4,73.4,51.4,Not Placed,Not Applicable,0.0
+STU732,Kavya Bhatt,Female,25,Mechanical Engineering,7.75,75.5,2,1,6,1,59.4,54.8,Placed,HCLTech,11.34
+STU733,Riya Malhotra,Female,25,Computer Science Engineering,5.82,62.7,9,1,3,2,42.2,58.6,Not Placed,Not Applicable,0.0
+STU734,Manav Rao,Male,22,Mechanical Engineering,7.87,73.7,3,0,2,3,68.2,54.4,Not Placed,Not Applicable,0.0
+STU735,Harsh Tripathi,Male,22,Mechanical Engineering,7.08,97.4,4,1,5,2,82.4,68.4,Not Placed,Not Applicable,0.0
+STU736,Pooja Mishra,Female,21,Electronics & Communication,8.73,95.9,4,1,1,3,62.1,71.5,Not Placed,Not Applicable,0.0
+STU737,Sameer Bansal,Male,22,Artificial Intelligence & Machine Learning,8.08,85.5,6,1,1,2,78.6,45.4,Not Placed,Not Applicable,0.0
+STU738,Ishita Pandey,Female,21,Artificial Intelligence & Machine Learning,8.5,88.0,9,2,1,1,70.3,60.3,Not Placed,Not Applicable,0.0
+STU739,Krishna Bansal,Male,25,Artificial Intelligence & Machine Learning,6.65,100.0,3,0,1,2,70.6,60.5,Not Placed,Not Applicable,0.0
+STU740,Dhruv Reddy,Male,22,Artificial Intelligence & Machine Learning,8.45,86.9,5,2,2,5,56.5,42.9,Not Placed,Not Applicable,0.0
+STU741,Yash Chatterjee,Male,24,Civil Engineering,8.84,87.7,6,0,3,1,76.7,53.5,Placed,HCLTech,12.55
+STU742,Karan Dwivedi,Male,24,Computer Science Engineering,7.36,61.2,4,4,1,1,78.5,78.1,Not Placed,Not Applicable,0.0
+STU743,Riya Malhotra,Female,25,Mechanical Engineering,6.66,66.6,5,0,1,3,76.3,77.9,Placed,Infosys,8.16
+STU744,Ishaan Malhotra,Male,21,Artificial Intelligence & Machine Learning,6.68,79.6,7,0,2,2,56.4,40.6,Placed,Accenture,8.57
+STU745,Krishna Pandey,Male,24,Information Technology,8.64,70.3,4,4,3,2,79.7,72.1,Not Placed,Not Applicable,0.0
+STU746,Pooja Iyer,Female,21,Mechanical Engineering,10.0,68.0,5,2,5,1,69.0,42.9,Placed,Cognizant,16.73
+STU747,Aryan Bhatt,Male,24,Civil Engineering,6.42,69.4,5,2,4,4,44.5,59.0,Not Placed,Not Applicable,0.0
+STU748,Karan Chatterjee,Male,24,Artificial Intelligence & Machine Learning,6.34,62.9,5,0,3,1,55.1,63.5,Not Placed,Not Applicable,0.0
+STU749,Diya Dwivedi,Female,21,Information Technology,8.32,70.5,6,3,1,0,52.5,76.3,Not Placed,Not Applicable,0.0
+STU750,Aditi Tripathi,Female,23,Information Technology,6.65,84.1,7,0,2,2,26.2,62.4,Placed,Deloitte,6.2
+STU751,Manav Kapoor,Male,24,Computer Science Engineering,8.42,100.0,9,0,0,3,80.1,49.8,Placed,Accenture,12.88
+STU752,Nisha Pandey,Female,22,Artificial Intelligence & Machine Learning,7.87,89.6,1,0,2,2,100.0,47.2,Placed,Cognizant,8.25
+STU753,Pooja Chauhan,Female,25,Information Technology,7.38,87.6,5,0,2,1,83.8,67.5,Not Placed,Not Applicable,0.0
+STU754,Aryan Kumar,Male,23,Information Technology,7.84,60.5,3,1,5,4,64.9,55.5,Not Placed,Not Applicable,0.0
+STU755,Aarav Saxena,Male,21,Electronics & Communication,7.78,81.4,5,1,3,2,52.7,58.9,Not Placed,Not Applicable,0.0
+STU756,Ishita Rao,Female,23,Artificial Intelligence & Machine Learning,7.22,79.2,7,0,2,2,45.3,79.6,Not Placed,Not Applicable,0.0
+STU757,Nisha Pandey,Female,20,Information Technology,5.64,83.5,8,3,4,0,64.7,71.5,Not Placed,Not Applicable,0.0
+STU758,Krishna Yadav,Male,20,Information Technology,7.58,75.7,8,0,5,1,79.4,88.8,Not Placed,Not Applicable,0.0
+STU759,Aditi Bhatt,Female,24,Mechanical Engineering,8.97,99.9,8,1,3,4,49.9,49.7,Not Placed,Not Applicable,0.0
+STU760,Aadhya Kapoor,Female,24,Mechanical Engineering,5.79,80.6,5,1,2,1,100.0,54.4,Not Placed,Not Applicable,0.0
+STU761,Ishaan Nair,Male,22,Information Technology,6.43,81.8,8,1,0,5,37.1,67.8,Placed,TCS,9.02
+STU762,Rahul Joshi,Male,25,Mechanical Engineering,7.83,56.5,9,3,3,1,66.0,92.3,Placed,Accenture,11.45
+STU763,Aarav Yadav,Male,23,Artificial Intelligence & Machine Learning,7.44,78.7,6,2,1,3,63.3,53.1,Not Placed,Not Applicable,0.0
+STU764,Aadhya Gupta,Female,20,Information Technology,7.81,93.8,8,0,6,3,62.1,65.6,Not Placed,Not Applicable,0.0
+STU765,Aarav Singh,Male,24,Artificial Intelligence & Machine Learning,6.7,86.7,6,2,4,4,51.8,84.8,Placed,Accenture,10.34
+STU766,Riya Gupta,Female,25,Information Technology,8.56,54.1,8,2,3,2,63.5,65.7,Not Placed,Not Applicable,0.0
+STU767,Priya Verma,Female,23,Electronics & Communication,7.45,74.6,5,1,7,2,53.9,80.3,Placed,Deloitte,12.32
+STU768,Sneha Bhatt,Female,24,Civil Engineering,8.1,100.0,4,1,4,2,85.2,94.4,Placed,Accenture,11.18
+STU769,Kabir Dwivedi,Male,24,Computer Science Engineering,7.72,78.2,3,1,3,2,91.2,69.4,Placed,Accenture,12.49
+STU770,Tanvi Mehta,Female,20,Electronics & Communication,7.58,83.9,5,2,1,4,55.0,71.9,Not Placed,Not Applicable,0.0
+STU771,Vivaan Reddy,Male,20,Electronics & Communication,8.03,99.4,6,1,2,4,32.4,76.1,Not Placed,Not Applicable,0.0
+STU772,Meera Chauhan,Female,24,Computer Science Engineering,7.59,78.1,4,0,1,3,67.7,51.4,Not Placed,Not Applicable,0.0
+STU773,Rohan Tripathi,Male,21,Computer Science Engineering,6.21,89.5,5,1,4,0,67.1,42.8,Not Placed,Not Applicable,0.0
+STU774,Vihaan Rao,Male,24,Artificial Intelligence & Machine Learning,8.49,84.9,4,1,2,5,63.9,67.4,Placed,Capgemini,9.06
+STU775,Priya Rao,Female,25,Computer Science Engineering,8.22,87.5,3,0,1,1,71.6,55.6,Not Placed,Not Applicable,0.0
+STU776,Dhruv Bansal,Male,24,Artificial Intelligence & Machine Learning,5.29,84.6,8,1,2,1,86.9,80.8,Placed,HCLTech,7.72
+STU777,Sameer Malhotra,Male,22,Artificial Intelligence & Machine Learning,6.75,73.4,8,2,1,1,77.0,69.7,Placed,TCS,8.38
+STU778,Diya Dwivedi,Female,22,Artificial Intelligence & Machine Learning,8.44,74.6,8,0,3,5,71.6,80.5,Placed,TCS,10.58
+STU779,Kritika Iyer,Female,22,Mechanical Engineering,5.57,69.7,5,2,1,2,75.6,47.0,Not Placed,Not Applicable,0.0
+STU780,Meera Mishra,Female,21,Information Technology,8.34,60.3,5,1,3,1,66.5,80.0,Placed,Accenture,7.76
+STU781,Myra Saxena,Female,21,Civil Engineering,7.26,94.9,3,4,3,0,45.0,30.5,Placed,TCS,11.02
+STU782,Siddharth Kumar,Male,24,Information Technology,8.74,80.1,6,2,1,1,88.1,48.2,Placed,Deloitte,11.21
+STU783,Vihaan Kapoor,Male,22,Mechanical Engineering,7.4,94.3,6,3,2,2,63.8,74.5,Not Placed,Not Applicable,0.0
+STU784,Vihaan Tripathi,Male,21,Mechanical Engineering,6.68,98.8,10,2,3,3,45.0,57.5,Not Placed,Not Applicable,0.0
+STU785,Kabir Saxena,Male,20,Electronics & Communication,7.71,80.6,8,2,6,1,41.7,58.9,Not Placed,Not Applicable,0.0
+STU786,Ishita Kumar,Female,24,Information Technology,7.37,64.2,6,0,3,0,45.5,66.6,Not Placed,Not Applicable,0.0
+STU787,Myra Dwivedi,Female,25,Mechanical Engineering,6.59,77.6,5,3,5,8,39.8,86.3,Placed,IBM,10.02
+STU788,Ishaan Mehta,Male,23,Computer Science Engineering,9.62,71.9,8,1,1,5,74.0,36.2,Placed,Deloitte,10.28
+STU789,Kabir Patel,Male,24,Artificial Intelligence & Machine Learning,6.43,56.2,4,1,2,2,58.8,83.7,Placed,Accenture,9.16
+STU790,Tanvi Singh,Female,23,Information Technology,5.16,74.0,8,1,3,2,76.0,84.6,Placed,Wipro,8.18
+STU791,Karan Tripathi,Male,22,Information Technology,8.98,79.1,3,1,3,3,83.1,57.4,Not Placed,Not Applicable,0.0
+STU792,Shreya Pandey,Female,23,Computer Science Engineering,6.82,72.3,4,1,1,0,78.4,54.6,Not Placed,Not Applicable,0.0
+STU793,Krishna Singh,Male,22,Civil Engineering,7.1,70.7,2,0,3,1,73.4,63.2,Placed,HCLTech,6.72
+STU794,Tanvi Gupta,Female,20,Electronics & Communication,7.04,64.7,7,0,3,3,67.2,54.3,Not Placed,Not Applicable,0.0
+STU795,Arjun Agarwal,Male,23,Information Technology,6.83,82.4,6,1,1,0,58.6,70.2,Not Placed,Not Applicable,0.0
+STU796,Kritika Singh,Female,24,Civil Engineering,6.63,100.0,4,0,3,4,59.8,72.1,Not Placed,Not Applicable,0.0
+STU797,Diya Chatterjee,Female,22,Information Technology,6.4,95.3,4,0,2,2,72.5,41.7,Not Placed,Not Applicable,0.0
+STU798,Nisha Mishra,Female,24,Civil Engineering,7.46,87.8,8,1,4,3,44.7,51.2,Not Placed,Not Applicable,0.0
+STU799,Shreya Malhotra,Female,21,Information Technology,7.0,88.1,5,0,4,2,61.0,47.2,Placed,Cognizant,6.85
+STU800,Nisha Rao,Female,22,Computer Science Engineering,8.13,78.4,4,0,3,0,48.6,68.2,Not Placed,Not Applicable,0.0
